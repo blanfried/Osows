@@ -30,21 +30,21 @@ partner:
 ################################ Features ###############################
 feature:
   enable : true
-  subtitle : "fetures"
-  title : "exclusive features"
+  subtitle : "Our Process"
+  title : "Steps to Your New Website"
   feature_item:
     # feature item loop
-    - name : "Free Trial"
+    - name : "Step 1"
       image : "images/feature/feature-1.png"
       content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
       
     # feature item loop
-    - name : "No Setup"
+    - name : "Step 2"
       image : "images/feature/feature-2.png"
       content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
 
     # feature item loop
-    - name : "Optimized Data"
+    - name : "Step 3"
       image : "images/feature/feature-3.png"
       content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
 
