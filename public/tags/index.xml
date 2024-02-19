@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Osows.com</title>
+    <title>Tags on Osows</title>
     <link>https://www.osows.com/tags/</link>
-    <description>Recent content in Tags on Osows.com</description>
+    <description>Recent content in Tags on Osows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Apr 2019 09:51:57 +0600</lastBuildDate><atom:link href="https://www.osows.com/tags/index.xml" rel="self" type="application/rss+xml" />

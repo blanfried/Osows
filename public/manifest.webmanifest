@@ -1,10 +1,10 @@
 {
-  "name": "Osows.com",
-  "short_name": "Osows.com",
+  "name": "Osows",
+  "short_name": "Osows",
   "lang": "en-us",
   "display": "fullscreen",
   "orientation" : "portrait",
-  "start_url": "https://www.osows.com?utm_source=web_app_manifest",
+  "start_url": "https://www.osows.com/?utm_source=web_app_manifest",
   "background_color": "#fff",
   "theme_color": "#007ac7",
 
