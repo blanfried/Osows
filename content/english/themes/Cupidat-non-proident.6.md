@@ -1,22 +1,18 @@
 ---
-title: "The Real Product From the Buyers improvements in Overflow basis."
+title: "Cupidat non proident sunt officia deserunt mollit anim."
+watermark: "Themes"
 date: 2019-04-10T09:51:57+06:00
-# watermark text
-watermark: "Blog"
-# page header background image
+description : "this is meta description"
+short_description: "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
 page_header_image: "images/background/about.jpg"
-# meta description
-description : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
-# post image
-image : "images/blog/blog-post-8.jpg"
-# post author
-author : "Admin"
-# post categories
-categories: ["Investment Planning"]
-# post tags
-tags: ["Advice","Business","Finance"]
-# type
+image : "images/themes/themes-post-6.jpg"
+author : "ADMIN"
 type : "post"
+categories: 
+  - "Targated Marketing"
+tags:
+  - "Advice"
+  - "Business"
 ---
 
 ### Elit duied aiusmod tempor did labore dolory
@@ -31,6 +27,8 @@ natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam e
 illo inventore veri.
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusmod tempor incididunt labore dolore magna aliqua. enim minim veniam quis nostrud exercitation ullamco. laboris nisi ut aliquip ex ea commodo.
+
+> ###### by Michelle Fischer
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
 et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut

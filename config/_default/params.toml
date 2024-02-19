@@ -22,7 +22,7 @@ purge_css = true
 search = true
 
 # Main Sections
-mainSections = ["blog"]
+mainSections = ["themes"]
 
 # image gallery shortcode
 image_gallery = false

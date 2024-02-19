@@ -11,8 +11,8 @@ URL = "service/"
 weight = 3
 
 [[main]]
-name = "Blog"
-URL = "blog/"
+name = "Themes"
+URL = "themes/"
 weight = 4
 
 [[main]]

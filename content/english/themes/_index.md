@@ -1,7 +1,7 @@
 ---
-title: "Blog"
+title: "Themes"
 # watermark text
-watermark: "Blog"
+watermark: "Themes"
 # page header background image
 page_header_image: "images/background/about.jpg"
 # meta description

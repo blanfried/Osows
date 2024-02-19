@@ -1,20 +1,20 @@
 ############# English navigation ##############
 # main menu    
 [[main]]
-name = "About"
-URL = "about/"
+name = "Services"
+URL = "services/"
 weight = 2
-  
+
 [[main]]
-name = "Service"
-URL = "service/"
+name = "Themes"
+URL = "themes/"
 weight = 3
 
 [[main]]
-name = "Blog"
-URL = "blog/"
+name = "Plans"
+URL = "plans/"
 weight = 4
-
+  
 [[main]]
 name = "Contact"
 URL = "contact/"
@@ -22,33 +22,39 @@ weight = 5
 
 [[main]]
 weight = 6
-name = "Pages"
+name = "More"
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
-  name = "Pricing"
-  URL = "pricing/"
+  parent = "More"
+  name = "About"
+  URL = "about/"
+  weight = 1
 
   [[main]]
-  parent = "Pages"
-  name = "Career"
-  URL = "career/"
-  
-  [[main]]
-  parent = "Pages"
-  name = "Team"
-  URL = "team/"
-
-  [[main]]
-  parent = "Pages"
+  parent = "More"
   name = "FAQ"
   URL = "faq/"
+  weight = 3
+
+  #  [[main]]
+  #  parent = "Pages"
+  #  name = "Career"
+  #  URL = "career/"
   
-  [[main]]
-  parent = "Pages"
-  name = "Changelog"
-  URL = "changelog/"
+  #  [[main]]
+  #  parent = "Pages"
+  #  name = "Team"
+  #  URL = "team/"
+
+  #  [[main]]
+  # name = "Blog"
+  # URL = "blogs/"
+  
+  #  [[main]]
+  #  parent = "Pages"
+  #  name = "Changelog"
+  #  URL = "changelog/"
 
 #Footer menu
 [[footer]]
