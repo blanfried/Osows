@@ -23303,33 +23303,33 @@ textarea.form-control {
   margin-bottom: 0 !important;
   font-size: 100%; }
 
-.naviagtion {
+.navigation {
   transition: none;
   padding: 45px 0; }
   @media (max-width: 991px) {
-    .naviagtion {
+    .navigation {
       background: linear-gradient(80deg, #0030cc 0%, #00a4db 100%);
       padding: 15px 0; } }
-  .naviagtion.nav-bg {
+  .navigation.nav-bg {
     background: linear-gradient(80deg, #0030cc 0%, #00a4db 100%);
     padding: 15px 0; }
-  .naviagtion.naviagtion-white.nav-bg {
+  .navigation.navigation-white.nav-bg {
     background: #fff;
     box-shadow: 0px 10px 20px 0px rgba(0, 141, 236, 0.1); }
-    .naviagtion.naviagtion-white.nav-bg .btn {
+    .navigation.navigation-white.nav-bg .btn {
       color: #007ac7 !important; }
-      .naviagtion.naviagtion-white.nav-bg .btn:hover {
+      .navigation.navigation-white.nav-bg .btn:hover {
         color: #fff !important; }
   @media (max-width: 991px) {
-    .naviagtion.naviagtion-white {
+    .navigation.navigation-white {
       background: #fff; }
-      .naviagtion.naviagtion-white .btn {
+      .navigation.navigation-white .btn {
         color: #007ac7 !important; }
-        .naviagtion.naviagtion-white .btn:hover {
+        .navigation.navigation-white .btn:hover {
           color: #fff !important; } }
-  .naviagtion.naviagtion-white .dropdown-menu {
+  .navigation.navigation-white .dropdown-menu {
     background: #fff; }
-  .naviagtion.naviagtion-white .dropdown-item {
+  .navigation.navigation-white .dropdown-item {
     color: #242f3e; }
 
 .navbar .navbar-toggler[aria-expanded="true"] .fa-times {
@@ -24115,7 +24115,7 @@ style="background-image: url(/osows.com/images/shape/page-title_hu511eef7762e5ee
 
 	
 	<!-- navigation -->
-<div class="naviagtion fixed-top transition">
+<div class="navigation fixed-top transition">
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-dark p-0">
       <a class="navbar-brand p-0" href="/osows.com">
@@ -31135,15 +31135,15 @@ function render(templateString, data) {
   // navfixed
   // ##################
   let scrolling = window.scrollY;
-  let naviagtion = document.querySelector(".naviagtion");
+  let navigation = document.querySelector(".navigation");
 
   function navFixed() {
     scrolling = window.scrollY;
 
     if (scrolling > 10) {
-      naviagtion.classList.add('nav-bg');
+      navigation.classList.add('nav-bg');
     } else {
-      naviagtion.classList.remove('nav-bg');
+      navigation.classList.remove('nav-bg');
     }
   };
 

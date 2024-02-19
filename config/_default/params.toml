@@ -3,17 +3,17 @@
 favicon = "images/favicon.png"
 
 # logo
-logo = "images/logo.png"
+logo = "images/logo.svg"
 
 # use `px` or `x` with logo_width, example: "100px".
-# Note: logo_width is not work with .svg file
+# Note: logo_width does not work with .svg file
 logo_width = "148px"
 
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 
 # logo text will only show when logo is missing.
-logo_text = "Agico"
+logo_text = "Osows"
 
 # purgeCSS
 purge_css = true

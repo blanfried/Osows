@@ -103,15 +103,15 @@
   // navfixed
   // ##################
   let scrolling = window.scrollY;
-  let naviagtion = document.querySelector(".naviagtion");
+  let navigation = document.querySelector(".navigation");
 
   function navFixed() {
     scrolling = window.scrollY;
 
     if (scrolling > 10) {
-      naviagtion.classList.add('nav-bg');
+      navigation.classList.add('nav-bg');
     } else {
-      naviagtion.classList.remove('nav-bg');
+      navigation.classList.remove('nav-bg');
     }
   };
 
