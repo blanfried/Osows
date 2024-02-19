@@ -1,1 +1,0 @@
-Header always set Content-Security-Policy "frame-ancestors 'self' https://github.io;
