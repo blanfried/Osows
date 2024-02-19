@@ -3,24 +3,29 @@
 banner:
   enable : true
   bg_image : "images/background/banner.png"
-  title : "Build Your Business Together"
-  watermark : "Build"
-  content : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
+  title : "Custom Websites Simple Process"
+  watermark : ""
+  content : "Professionally Coded Websites Made Easy"
   image : "images/banner/banner-1.png"
   button:
     enable : true
-    label : "Get Agico"
-    link : "#"
+    label : "Our Services"
+    link : "services/"
 
 ############################## Partners #################################
 partner:
   enable : true
   partner_logo:
-  - "images/partner/client-logo-1.png"
-  - "images/partner/client-logo-2.png"
-  - "images/partner/client-logo-3.png"
-  - "images/partner/client-logo-4.png"
-  - "images/partner/client-logo-5.png"
+  # - "images/partner/client-logo-1.png"
+  - "images/partner/termly.png"
+  - "images/partner/stripe.png"
+  - "images/partner/accessibe.png"
+  - "images/partner/netlify.png"
+  - "images/partner/gethugo.png"
+  # - "images/partner/client-logo-2.png"
+  # - "images/partner/client-logo-3.png"
+  # - "images/partner/client-logo-4.png"
+  # - "images/partner/client-logo-5.png"
 
 ################################ Features ###############################
 feature:
