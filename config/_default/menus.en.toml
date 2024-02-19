@@ -66,12 +66,12 @@ name = "About us"
 URL = "about/"
 
 [[footer]]
-name = "Contact us"
+name = "Contact Us"
 URL = "contact/"
 
 [[footer]]
 name = "Services"
-URL = "service/"
+URL = "services/"
 
 [[footer]]
 name = "Privacy Policy"
