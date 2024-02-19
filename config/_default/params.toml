@@ -48,7 +48,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "sign up"
+label = "account"
 link = "https://billing.osows.com/p/login/28odTm8gZgVm73G7ss"
 
 # contact info
