@@ -18,9 +18,9 @@ partner:
   partner_logo:
   # - "images/partner/client-logo-1.png"
   - "images/partner/termly.png"
-  - "images/partner/stripe.png"
+  # - "images/partner/stripe.png"
   - "images/partner/accessibe.png"
-  - "images/partner/netlify.png"
+  # - "images/partner/netlify.png"
   - "images/partner/gethugo.png"
   # - "images/partner/client-logo-2.png"
   # - "images/partner/client-logo-3.png"
