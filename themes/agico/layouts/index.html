@@ -49,33 +49,6 @@
 {{ end }}
 {{"<!-- /partner -->"| safeHTML}}
 
-{{"<!-- feature -->"| safeHTML}}
-{{ with .Params.feature }}
-{{ if .enable }}
-<section class="section pb-0">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <p class="subtitle" data-aos="fade-up">{{ .subtitle }}</p>
-        <h2 class="section-title" data-aos="fade-up" data-aos-delay="100">{{ .title }}</h2>
-      </div>
-      {{ range $index, $element:= .feature_item }}
-      {{ $delay := mul $index 200 }}
-      <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="{{ $delay }}">
-        <div class="hover-bg-primary text-center position-relative px-4 py-5 rounded-lg shadow">
-          {{ partial "image.html" (dict "Src" .image "Alt" "feature image" "Class" "mb-3" ) }} 
-          <div class="mb-4 mt-4 fs-1 fw-bold">{{ .name | markdownify }}</div>
-          <div class="mb-4 mt-4">{{ .content | markdownify }}</div>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-{{"<!-- feature -->"| safeHTML}}
-
 {{"<!-- about -->"| safeHTML}}
 {{ with .Params.about }}
 {{ if .enable }}
@@ -124,6 +97,33 @@
 {{ end }}
 {{ end }}
 {{"<!-- about -->"| safeHTML}}
+
+{{"<!-- feature -->"| safeHTML}}
+{{ with .Params.feature }}
+{{ if .enable }}
+<section class="section pb-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <p class="subtitle" data-aos="fade-up">{{ .subtitle }}</p>
+        <h2 class="section-title" data-aos="fade-up" data-aos-delay="100">{{ .title }}</h2>
+      </div>
+      {{ range $index, $element:= .feature_item }}
+      {{ $delay := mul $index 200 }}
+      <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="{{ $delay }}">
+        <div class="hover-bg-primary text-center position-relative px-4 py-5 rounded-lg shadow">
+          {{ partial "image.html" (dict "Src" .image "Alt" "feature image" "Class" "mb-3" ) }} 
+          <div class="mb-4 mt-4 fs-1 fw-bold">{{ .name | markdownify }}</div>
+          <div class="mb-4 mt-4">{{ .content | markdownify }}</div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{"<!-- feature -->"| safeHTML}}
 
 {{"<!-- video -->"| safeHTML}}
 {{ with .Params.promo_video }}
