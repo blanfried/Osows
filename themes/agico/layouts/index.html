@@ -79,7 +79,8 @@
         <p class="mb-4" data-aos="fade-right" data-aos-delay="150">{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link | absLangURL }}" class="btn btn-outline-primary" data-aos="fade-right" data-aos-delay="200">{{
+        <!-- Replaced {{ .link | absLangURL }} with #thesteps to get it to function properly -->
+        <a href="#thesteps" class="btn btn-outline-primary" data-aos="fade-right" data-aos-delay="200">{{
           .label }} <span class="screen-reader-text">details</span></a>
         {{ end }}
         {{ end }}
@@ -101,7 +102,7 @@
 {{"<!-- feature -->"| safeHTML}}
 {{ with .Params.feature }}
 {{ if .enable }}
-<section class="section pb-0">
+<section id="thesteps" class="section pb-0">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">

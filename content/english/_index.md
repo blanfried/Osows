@@ -30,11 +30,11 @@ about:
     - image : "images/about/about-1.png"
       subtitle : "What We Do"
       title : "Professionally Coded Websites For All"
-      content : "Through our simple and proven process, we transmute visions into high-quality websites merging professional craftsmanship with creativity. Our mission is to create a more inclusive and innovative digital world for everyone."
+      content : "Through our simple and proven 3-step process, we transmute visions into high-quality websites merging professional craftsmanship with creativity. Our mission is to create a more inclusive and innovative digital world for everyone."
       button:
         enable : true
-        label : "Our Process"
-        link : "services/"
+        label : "The Steps"
+        # link : "#thesteps"
         
     # about item loop
     - image : "images/about/about-2.png"
@@ -127,7 +127,7 @@ download:
   enable : true
   title : "Suggestions or Questions?"
   image : "images/download-mobile-img.jpg"
-  content : "We thrive on your suggestions and are here to answer any question you have!"
+  content : "We thrive on your feedback and are available to address any inquiries you may have!"
   btn:
     label : "Contact Us!"
     link : "conact/"
