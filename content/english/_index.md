@@ -125,15 +125,18 @@ testimonial:
 ############################## Download ###########################
 download:
   enable : true
-  title : "Download Agico Now"
+  title : "Suggestions or Questions?"
   image : "images/download-mobile-img.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation."
-  playstore:
-    label : "Google Play"
-    link : "#"
-  appstore:
-    label : "app store"
-    link : "#"
+  content : "We thrive on your suggestions and are here to answer any question you have!"
+  btn:
+    label : "Contact Us!"
+    link : "conact/"
+  # playstore:
+  #   label : "Google Play"
+  #   link : "#"
+  # appstore:
+  #   label : "app store"
+  #   link : "#"
 
     
 ############################## pricing ###########################

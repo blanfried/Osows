@@ -1,5 +1,5 @@
 ---
-title: "Our Pricing"
+title: "Our Plans"
 # watermark text
 watermark: "Pricing"
 # page header background image

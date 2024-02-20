@@ -56,23 +56,42 @@ hasChildren = true
   #  name = "Changelog"
   #  URL = "changelog/"
 
+
+
+
 #Footer menu
+
 [[footer]]
 name = "Company History"
 URL = "about/"
+weight = 1
 
 [[footer]]
 name = "About us"
 URL = "about/"
+weight = 1
 
 [[footer]]
 name = "Contact Us"
 URL = "contact/"
+weight = 1
 
 [[footer]]
 name = "Services"
 URL = "services/"
+weight = 1
+
+[[footer]]
+name = "Terms of Service"
+URL = "terms/"
+weight = 1
 
 [[footer]]
 name = "Privacy Policy"
-URL = "#"
+URL = "privacy/"
+weight = 1
+
+[[footer]]
+name = "Subscription Policy"
+URL = "subpolicy/"
+weight = 1
