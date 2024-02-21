@@ -1,11 +1,11 @@
 ---
 title: "Our Plans"
 # watermark text
-watermark: "Pricing"
+watermark: ""
 # page header background image
 page_header_image: "images/background/about.jpg"
 # meta description
-description : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
+description : ""
 
 layout: "pricing"
 draft: false
@@ -15,21 +15,35 @@ pricing:
   title : "choose your plan"
   pricing_table:
   # pricing table loop
-  - title : "Basic"
-    price : "$49"
+  - title : "Professionally Coded Website"
+    price : "$99"
     unit : "month"
-    description : "Best for small individuals"
+    description : "$999 Paid in Full or $99/Month for One Year"
     link : "#"
     services:
-    - "Express Service"
-    - "Customs Clearance"
-    - "Time-Critical Services"
+      - Design
+      - Copywriting
+      - 1 Year Web Hosting
+      - 1 Year Domain Coverage
+      - Up To 6 Pages + Account Page
+      - Highest Possible SEO and Performance
+      - 1 Year of Website Management (See Details Below)
+      - Marketing Functionality (Google Ads, Analytics, Tag, etc.)
+
+
+      - "Additional Purchases:"
+
+      - Product Posting
+      - Additional Pages
+      - Full Legal Compliance
+      - Accessibility Compliance
+      - Blog Creation and Posting
       
   # pricing table loop
-  - title : "Professional"
-    price : "$79"
+  - title : "Website Management"
+    price : "$49"
     unit : "month"
-    description : "Best for small individuals"
+    description : "Continued Support"
     link : "#"
     services:
     - "Express Service"
