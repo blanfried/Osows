@@ -19,6 +19,7 @@ pricing:
     price : "$99"
     unit : "month"
     description : "$999 Paid in Full or $99/Month for One Year"
+    name: "Purchase"
     link : "#"
     services:
       - Design
@@ -27,26 +28,40 @@ pricing:
       - 1 Year Domain Coverage
       - Up To 6 Pages + Account Page
       - Highest Possible SEO and Performance
-      - 1 Year of Website Management (See Details Below)
       - Marketing Functionality (Google Ads, Analytics, Tag, etc.)
-
-
-      - "Additional Purchases:"
-
-      - Product Posting
-      - Additional Pages
-      - Full Legal Compliance
-      - Accessibility Compliance
-      - Blog Creation and Posting
+      - 1 Year of Osows Website Management (See "Website Management" Plan for Details)
       
+
   # pricing table loop
   - title : "Website Management"
     price : "$49"
     unit : "month"
     description : "Continued Support"
+    name: "Subscribe"
     link : "#"
     services:
-    - "Express Service"
-    - "Customs Clearance"
-    - "Time-Critical Services"
+    - Web Hosting
+    - SEO Monitoring
+    - Domain Coverage
+    - 3 Branding Changes/Month
+    - Up to 5 New Website Pictures
+    - 3 Website Customizations/Month
+    - Google Tag & Analytics Monitoring
+    - Unlimited Troubleshooting and Error Correcting
+
+
+  # pricing table loop
+  - title : "Extras"
+    price : "0-$49"
+    unit : "month"
+    description : "Add-Ons and Additional Subscriptions"
+    name: "See Details"
+    link : "../planpolicy/"
+    services:
+    - Account Page
+    - Product Posting
+    - Additional Pages
+    - Full Legal Compliance
+    - Accessibility Compliance
+    - Blog Creation and Posting
 ---
