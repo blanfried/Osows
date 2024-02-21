@@ -62,36 +62,36 @@ hasChildren = true
 #Footer menu
 
 [[footer]]
-name = "Company History"
-URL = "about/"
-weight = 1
-
-[[footer]]
 name = "About us"
 URL = "about/"
 weight = 1
 
 [[footer]]
-name = "Contact Us"
-URL = "contact/"
-weight = 1
-
-[[footer]]
 name = "Services"
 URL = "services/"
-weight = 1
+weight = 2
+
+[[footer]]
+name = "FAQ"
+URL = "faq/"
+weight = 3
+
+[[footer]]
+name = "Contact Us"
+URL = "contact/"
+weight = 4
+
+[[footer]]
+name = "Plan Policy"
+URL = "planpolicy/"
+weight = 5
 
 [[footer]]
 name = "Terms of Service"
 URL = "terms/"
-weight = 1
+weight = 6
 
 [[footer]]
 name = "Privacy Policy"
 URL = "privacy/"
-weight = 1
-
-[[footer]]
-name = "Subscription Policy"
-URL = "subpolicy/"
-weight = 1
+weight = 7

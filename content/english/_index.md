@@ -30,7 +30,7 @@ about:
     - image : "images/about/about-1.png"
       subtitle : "What We Do"
       title : "Professionally Coded Websites For All"
-      content : "Through our simple and proven 3-step process, we transmute visions into high-quality websites merging professional craftsmanship with creativity. Our mission is to create a more inclusive and innovative digital world for everyone."
+      content : "Through our simple and proven three-step process, we transmute visions into high-quality websites merging professional craftsmanship with creativity. Our mission is to create a more inclusive and innovative digital world for everyone."
       button:
         enable : true
         label : "The Steps"
