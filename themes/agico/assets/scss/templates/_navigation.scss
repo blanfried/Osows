@@ -4,12 +4,18 @@
 
   @include desktop {
     background: $bg-gradient-secondary;
-    padding: 0px 0;
+    padding: 15px 0;
   }
 
   &.nav-bg {
     background: $bg-gradient-secondary;
-    padding: 0px 0;
+    padding: 15px 0;
+
+    @include mobile {
+      background: $bg-gradient-secondary;
+      padding: 8px 0;
+      padding-bottom: 15px;
+    }
   }
 
   &.navigation-white {
@@ -125,6 +131,7 @@
       border-radius: 10px;
       transition: .3s ease;
       margin: 0px;
+      margin-bottom: 10px;
       transform: scale(.8);
       background: $bg-gradient-secondary;
       box-shadow: 0px 3px 9px 0px rgba(0, 0, 0, 0.12);

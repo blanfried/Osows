@@ -5,7 +5,7 @@ banner:
   bg_image : "images/background/banner.png"
   title : "Custom Websites Simple Process"
   watermark : ""
-  content : "A proven process of turning brands into stunning websites with ease."
+  content : "Turning brands into stunning websites with ease."
   image : "images/banner/banner-1.png"
   button:
     enable : true
@@ -60,7 +60,7 @@ feature:
     # feature item loop
     - name : "Step 2"
       image : "images/feature/feature-2.png"
-      content : "We ask you some questions to better understand your brand's personality, target audience, and unique selling points."
+      content : "After Purchasing \"Professionally Coded Website\"[*](plans/), we'll ask you some questions to better understand your brand's personality, target audience, and unique selling points."
 
     # feature item loop
     - name : "Step 3"
