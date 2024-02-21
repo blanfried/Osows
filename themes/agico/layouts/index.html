@@ -286,7 +286,7 @@
             <li class="my-3">{{ . }}</li>
             {{ end }}
           </ul>
-          <a href="{{ .link | safeURL }}" class="btn btn-outline-primary">Select Plan</a>
+          <a href="{{ .link | safeURL }}" class="btn btn-outline-primary">{{ .name }}</a>
         </div>
       </div>
       {{ end }}

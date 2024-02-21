@@ -142,7 +142,7 @@ download:
 ############################## pricing ###########################
 pricing:
   enable : true
-  section : "pricing"
+  section : "plans"
   show_items : 3
   # pricing item comes from "content/*/pricing.md"
 ---

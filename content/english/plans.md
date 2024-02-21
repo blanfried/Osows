@@ -24,12 +24,12 @@ pricing:
     services:
       - Design
       - Copywriting
-      - 1 Year Web Hosting
-      - 1 Year Domain Coverage
+      - 1 Year of Web Hosting
+      - Marketing Functionality
+      - 1 Year of Domain Coverage
       - Up To 6 Pages + Account Page
+      - 1 Year of Osows Website Management
       - Highest Possible SEO and Performance
-      - Marketing Functionality (Google Ads, Analytics, Tag, etc.)
-      - 1 Year of Osows Website Management (See "Website Management" Plan for Details)
       
 
   # pricing table loop
