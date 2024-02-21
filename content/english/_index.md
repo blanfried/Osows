@@ -55,12 +55,12 @@ feature:
     # feature item loop
     - name : "Step 1"
       image : "images/feature/feature-1.png"
-      content : "Explore a variety of curated themes[*](themes/) to find one that matches your brand's essence."
+      content : "Explore a variety of curated themes[*](themes/) and select the one that matches your brand's essence."
       
     # feature item loop
     - name : "Step 2"
       image : "images/feature/feature-2.png"
-      content : "After Purchasing \"Professionally Coded Website\"[*](plans/), we'll ask you some questions to better understand your brand's personality, target audience, and unique selling points."
+      content : "After Purchasing \"Professionally Coded Website\"[*](plans/), we'll ask you some questions to understand your brand's personality, target audience, and unique selling points."
 
     # feature item loop
     - name : "Step 3"
