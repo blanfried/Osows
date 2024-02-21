@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.osows.com/privacy/</loc>
+    <lastmod>2024-02-08T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://www.osows.com/faq/</loc>
     <lastmod>2020-06-05T15:04:04+02:00</lastmod>
     <xhtml:link
@@ -15,10 +18,7 @@
                 href="https://www.osows.com/faq/"
                 />
   </url><url>
-    <loc>https://www.osows.com/privacy/</loc>
-    <lastmod>2020-06-05T15:04:04+02:00</lastmod>
-  </url><url>
-    <loc>https://www.osows.com/subpolicy/</loc>
+    <loc>https://www.osows.com/planpolicy/</loc>
     <lastmod>2020-06-05T15:04:04+02:00</lastmod>
   </url><url>
     <loc>https://www.osows.com/terms/</loc>
