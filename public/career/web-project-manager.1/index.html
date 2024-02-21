@@ -23311,10 +23311,15 @@ textarea.form-control {
   @media (max-width: 991px) {
     .navigation {
       background: linear-gradient(80deg, #0030cc 0%, #00a4db 100%);
-      padding: 0px 0; } }
+      padding: 15px 0; } }
   .navigation.nav-bg {
     background: linear-gradient(80deg, #0030cc 0%, #00a4db 100%);
-    padding: 0px 0; }
+    padding: 15px 0; }
+    @media (max-width: 575px) {
+      .navigation.nav-bg {
+        background: linear-gradient(80deg, #0030cc 0%, #00a4db 100%);
+        padding: 8px 0;
+        padding-bottom: 15px; } }
   .navigation.navigation-white.nav-bg {
     background: #fff;
     box-shadow: 0px 10px 20px 0px rgba(0, 141, 236, 0.1); }
@@ -23385,6 +23390,7 @@ textarea.form-control {
   border-radius: 10px;
   transition: .3s ease;
   margin: 0px;
+  margin-bottom: 10px;
   transform: scale(0.8);
   background: linear-gradient(80deg, #0030cc 0%, #00a4db 100%);
   box-shadow: 0px 3px 9px 0px rgba(0, 0, 0, 0.12); }
