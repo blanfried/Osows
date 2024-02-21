@@ -27,15 +27,15 @@ hasChildren = true
 
   [[main]]
   parent = "More"
-  name = "About"
+  name = "About Us"
   URL = "about/"
   weight = 1
 
   [[main]]
   parent = "More"
-  name = "FAQ"
-  URL = "faq/"
-  weight = 3
+  name = "Plan Policy"
+  URL = "planpolicy/"
+  weight = 2
 
   #  [[main]]
   #  parent = "Pages"
@@ -62,7 +62,7 @@ hasChildren = true
 #Footer menu
 
 [[footer]]
-name = "About us"
+name = "About Us"
 URL = "about/"
 weight = 1
 
@@ -71,10 +71,10 @@ name = "Services"
 URL = "services/"
 weight = 2
 
-[[footer]]
-name = "FAQ"
-URL = "faq/"
-weight = 3
+# [[footer]]
+# name = "FAQ"
+# URL = "faq/"
+# weight = 3
 
 [[footer]]
 name = "Contact Us"
