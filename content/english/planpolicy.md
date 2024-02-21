@@ -1,102 +1,211 @@
 ---
-title: "Osows Subscription Policy"
+title: "Osows Plan Policy"
 date: 2020-06-05T15:04:04+02:00
 draft: false
 #watermark: "Coinic"
 page_header_image: "images/background/about.jpg"
-description: "What our users and players frequently ask."
+description: "Last Updated: February 20, 2024"
 ---
 
 
-### Skill based Gaming or Gambling?
-<br>
+## What This Document Covers
+Upon payment for an Osows Plan, and thereby agreeing with our Terms of Service, you also agree to the terms laid out in this Plan Policy.
 
-##### What is the difference between gaming and gambling?
+These terms, developed below, cover our ["**Professionally Coded Website Policy**"](#1-professionally-coded-website-policy), ["**Website Management Policy**"](#2-website-management-policy), ["**Refunds and Cancellation Policy**"](#8-refunds-and-cancellation), as well as any additional purchases ("add-ons" or "additional subscriptions") that may be added onto the original "Plan" purchase and the terms which go along with each additional purchase. By "Plan" it is meant the original Osows [**"Professionally Coded Website"**](#1-professionally-coded-website) Plan, which is the base of all other additional subscriptions or add-ons. In order to purchase additional subscriptions, like [**"Website Management"**](#2-website-management) or add-ons, one must have either paid for the Plan "in Full" (see section 1) or currently be on or finished with the "One Year Payment Route" (OYPR) regarding the Plan (see section 1). An "add-on" is an addition to the Plan and constitutes a *one-time purchase* (i.e., not a recurring payment, unless coupled with the OYPR for the Plan, in which case the payment ceases at the end of the one year cycle along with the Plan itself). Examples of add-ons include ["**Additional Pages**"](#4-additional-pages) or [**Initial "Blog" or "Products" Page**](#5-blog-and-product-postings). An "additional subscription" is any subscription other than the Plan under the OYPR. Additional subscriptions constitute a *recurring payment* over an indefinite period of time (i.e., not confined to the scope of the Plan under the OYPR). Examples of additional subscriptions are [**"Website Management"**](#2-website-management), ["**Full Legal Compliance**"](#6-creation-of-terms-of-service-and-privacy-policy), ["**Accessibility Compliance**"](#9-accessibility-compliance) or [**"Blog/Product Posting"**](#5-blog-and-product-postings).
 
-The difference between the terms is that for gaming the outcome is achieved by skill and not by chance, whereas for gambling the result is based on chance and luck. 
+---
 
+# Table of Contents
 
-##### Are the trading tournaments gambling games?
+[What This Document Covers](#what-this-document-covers)  
+[1. “Professionally Coded Website” Policy](#1-professionally-coded-website-policy)  
+[2. “Website Management” Policy](#2-website-management-policy)  
+[3. The Pages Included](#3-the-pages-included)  
+[4. Additional Pages](#4-additional-pages)  
+[5. Blog and Product Postings](#5-blog-and-product-postings)  
+[6. Full Legal Compliance](#6-full-legal-compliance)  
+[7. Login and Authentication Pages](#7-login-and-authentication-pages)  
+[8. Refunds and Cancellation](#8-refunds-and-cancellation)  
+[9. Accessibility Compliance](#9-accessibility-compliance)  
+[10. Themes](#10-themes)
 
-No, not at all. All our games are skill-based. Even though the financial market is often unpredictable, trading can be learned and practiced. 
-Our AI algorithms are also human created and show that it is possible to extract systematically information from the market, which can lead to more successful trading.
+---
 
-##### Is it skill-based gaming?
+#### 1. "Professionally Coded Website" Policy
+*What this purchase includes:*
+- Anything listed under the "Professionally Coded Website" section in the ["**Plans Page**"](../plans/).
 
-Yes, our games rank players based on their trading success, which is usually measured in profit and loss, some games also take trading risk into account.
+- See [section 3](#3-the-pages-included) for the pages included in this purchase.
+- One non-premium domain name. Any domain that can be found for *$35* or less on GoDaddy.com or websites similar.
+- Aid with account creation or modifications to third-party websites only as the accounts or modifications apply to Osows websites paid for by the client.
+- +Any add-ons or additional subscriptions purchased by the client.
+- +Website Hosting and Domain name coverage for one full calendar year.
 
-<hr>
+---
 
-### FAQ related to prize pots and referral program
-<br>
+*What this purchase does not include:*
+- Anything not listed under the "Professionally Coded Website" section in the ["**Plans Page**"](../plans).
 
-##### Is the prize pot a lottery?
+- Domain Name coverage beyond one calendar year from the date of the original purchase of the "Professionally Coded Website" Plan.
+- Web-Hosting coverage beyond one calendar year from the date of the original purchase of the "Professionally Coded Website" Plan.
 
-No, the prize pot is designed to stimulate competition, and to reward people for skillful trading, for generating data on the platform and for helping to grow the ecosystem.
+---
 
+* *One Year Payment Route (OYPR):* The "Professionally Coded Website" Plan can be paid for through 12 installments of $150/month over one calendar year starting from the date of the initial purchase.
 
-##### Is it a Ponzi scheme?
+* *Payment in Full:* The "Professionally Coded Website" Plan can be paid in full with a one time payment of $1500.
 
-No, a Ponzi scheme uses cash inflow to pay returns to existing members. They collapse as soon as there are no new members joining. Our game prize pot logic is very different.
+* *Recurring Fees Post Payment:* Once the "Professionally Coded Website" Plan is completed and paid off (i.e. at the end of the OYPR or Paid in Full), the client is responsible for the yearly domain and web-hosting payments. *Osows will not be held responsible for the payment of domains or web-hosting after the first year of Plan purchase.* This may be offset by the purchase of the additional subscription [**"Website Management"**](#2-website-management).
 
+---
 
-##### Is the referral program a Pyramid scheme?
+#### 2. "Website Management" Policy
+*What this purchase includes:*
+- Anything listed under the "Website Management" section in the ["**Plans Page**"](../plans/).
 
-No, our referral system is a multi-level sales system. It is like commission-based sales and is completely success based. In that sense it is not inflating as some pyramid schemes.
+- Domain Name coverage over the duration of the Website Management subscription.
+- Web-Hosting coverage over the duration of the Website Management subscription.
+- *Unlimited Troubleshooting and Error correcting regarding Osows Professionally Coded Websites and extensions to the website (i.e. extensions added by Osows and only those that pertain to Osows websites which have been purchased by the client). Examples of extensions could include: accessiBe, Stripe, or Google Analytics/Tag.
 
-<hr>
+---
 
+*What this purchase does not include:*
+- Anything not listed under the "Website Management" section in the ["**Plans Page**"](../plans/).
 
-### What about Fairness?
-<br>
+- Troubleshooting and error correcting in websites or other technologies/tech services that are not from Osows.
+- Website Management for other websites or services other than Osows Professionally Coded Websites purchased by the client.
 
-##### Are the games fair?
+---
 
-Yes they are. We limit the number of trading activities with our ACT token. Also every player starts with the same amount of virtual trading capital. 
+#### 3. The Pages Included
+Up to 6 pages. The 6 pages constitute the following (numbers 5 & 6 constitute a choice between those listed):
 
+1. Home
 
-##### Do I have a chance if I can only spend 2 hours a day on the tournament?
+2. About
+3. Services
+4. Contact
+5. One "Blog", “Products”, "Plans", "Prices", or "Menu" page
+6. FAQ, Refund Policy, Cancellation Policy, or Privacy Policy
 
-Yes you do. We introduced the ACT token to limit excessive trading. Players must decide carefully, how often and when they trade. It is also possible that a simple buy and hold strategy can also outperform a very active trading strategy.
+*If needed, an "Account" page powered by Stripe is included at no additional cost. We can help you setup your Stripe account if needed.
 
-<hr>
+---
 
-### FAQ related to ACT Tokens
-<br>
+#### 4. Additional Pages
+You may purchase additional pages. Prices vary depending on the page, [Contact Us](../contact/) for a quote.
 
-##### Why did you introduce the ACT tokens to the game?
+Some Examples Include:
 
-The limited supply of ACT tokens during tournaments make a game fair. In addition, instead of blindly executing trades after trades the players have to decide when and how often they trade.
-This adds another strategy component to the game.   
+* Any page not chosen from the last two "Pages Included" (5 & 6)
 
-##### Can I sell the ACT tokens back to the platform? Are they worthless outside of the platform?
+* Additional Information
+* Mission
+* Vision
+* Portfolio
+* Our Users
+* Our Clients
+* Our Team
 
-No, unspent ACT tokens are automatically destroyed after 24 hours if not used. However, some more advanced games allow to acquire more ACT tokens or exchange ACT tokens between players, which creates another strategy component in the game.
+---
 
-<hr>
+#### 5. Blog and Product Postings
+**Blogs:**
 
-### FAQ related to Player Ranking and Game Settlment
-<br>
+If you would like a blog on your website, we charge $50 for the initial Blog page creation as an add-on and $20 per month as an additional subscription for blog posting.
 
-##### What happens if two players have the same score?
+*What this purchase includes:*
 
-If two players are scored the same and share the rank 5 for example, then the rank of the next best player will be 7 instead of 6.
+- Initial Blog Page creation (if Blog add-on is purchased)
 
+- The uploading of up to 5 blog posts per month to your website. (if more are needed, please [Contact Us](../contact/))
 
-##### Why does the settlement of the game take some time and is not instantaneously?
+*What this purchase does not include:*
 
-Our platform is built on strict security processes. As such, all the game pot wallets are so called cold wallets, off the internet. To transfer the tournament pot funds back to the players according to result of the game, transactions must be generated, validated, signed offline and then sent for execution to a blockchain. This process takes some time.
+- The writing of blog posts on your website. (Osows will only upload blogs which the client has written, or gotten written for them. Osows will not write any blog posts for the client)
 
-<hr>
+---
 
-### FAQ related to AI signals 
-<br>
+**Product Postings:**
 
-##### Why do you give away such a precious real-time AI signals for free during the tournaments?
+If not selected in point 5 on ["**The Pages Included**"](#3-the-pages-included), you can add an Initial Product Page as an add-on for $50. Regular Product Posting is an additional subscription of $20/month.
 
-We believe that retail traders need to be aware of and educated about modern trading technology, including AI, machine learning and real time data analysis. If they decide to trade in real, they will face competition with market participants that use this technology regularly.
+---
 
+*What this purchase includes:*
 
-##### I like the real-time AI signals a lot. Can I also get them outside of tournament period?
+- Initial Product Page creation (if Product Page add-on is purchased)
 
-Currently the signals are only available during tournament periods. In the future players may get a subscription option as well.
+- The uploading of up to 5 new products per month to your website. (if more are needed, please [Contact Us](../contact/))
+
+---
+
+*What this purchase does not include:*
+
+- The creation, purchase, finding, etc. of products to sell on your website. (Osows will only upload products which the client has obtained or intends to sell themselves. Osows will not be held responsible in any way for anything beyond the posting, uploading, or pasting of products the client wishes to have posted on their website.)
+
+---
+
+#### 6. Full Legal Compliance
+If you would like Terms of Service and Privacy Policy pages on your website, we charge an additional $30 per month or $300 per year to your plan.
+  - We will create both the pages on your website.
+  - We will create both the Terms of Service and Privacy Policy for you once we receive the necessary information from you to do so.
+  - These pages will be monitored and updated by legal professionals to ensure their continued validity and compliance.
+
+You may also add any of the following for a flat rate of $50 each:
+  - Disclaimer
+  - Cookie Policy
+  - EULA
+  - Return/Refund Policy
+  - Shipping Policy
+  - Acceptable Use Policy
+
+---
+
+#### 7. Login and Authentication Pages
+We currently do not offer any Login or Authentication pages other than the free Stripe Account page mentioned in “The Pages Included”.
+
+---
+
+#### 8. Refunds and Cancellation
+We currently allow cancellations and refunds if done under the following terms:
+
+**In-House Programmer Package:**
+You will receive a 100% refund if you cancel your plan within three days of the original purchase.
+  - To do so you must contact us saying you wish to cancel and also provide your order number.
+
+Beyond three days you might not receive any refund for the month in which the subscription was originally purchased. We encourage you to contact us anyway and hopefully we can work something out.
+
+If you decide to cancel your subscription before the next billing cycle, you will retain our services for the duration of the paid for billing cycle. For the following billing cycle, you will no longer be charged and the services previously purchased from Osows will cease.
+  - Any negotiated refund will be based on the amount of days since your original purchase and the labor already spent.
+  - In most cases, however, you will not receive any refund beyond the three day mark.
+
+**Professionally Coded Website Package:**
+You will receive a 100% refund if you cancel your plan within three days of the original purchase.
+  - To do so you must contact us saying you wish to cancel and also provide your order number.
+
+Beyond three days you might not receive any refund. We encourage you to contact us anyway and hopefully we can work something out.
+  - Any negotiated refund will be based on the amount of days since your original purchase and the labor already spent.
+  - In most cases, however, you will not receive any refund beyond the three day mark.
+
+If you decide to cancel your subscription before the end of the annual billing cycle, you will receive our services until said billing cycle ends. For the following billing cycle, you will no longer be charged and the services previously purchased from Osows will cease. If you have questions regarding the status of the website purchased from us after your subscription ends, see our [Plan Policy](../planpolicy/) page for more details.
+
+If you have purchased the Professionally Coded Website on the monthly billing cycle, you are not allowed to cancel until the end of approximately one year of monthly billing cycles. This is because the cost of the website is the accumulation of one year's worth of monthly payments. If you decide to cancel, please contact us and we will tell you the date your subscription will end and when our services will cease (i.e. after one full year (12 months) of billing cycles have been completed).
+
+---
+
+#### 9. Accessibility Compliance
+For $50/month, accessibility compliance can be added to your subscription. This is a recurring fee that extends beyond the end of date of the initial Subscription. You will be charged for as long as you desire it to exist on your Osows website.
+
+Upon purchasing anything from Osows, and thereby agreeing to our Terms of Service, you also recognize that we have necessarily provided Accessibility Compliance (including but not limited to: ADA, WCAG, EEA compliance etc.) as an option, even should you not choose it.
+
+To make your website accessible, we have partnered with [**accessiBe.com**](https://accessibe.com/).
+
+---
+
+#### 10. Themes
+The credit for our Themes properly goes to:
+- GetHugoThemes.com
+- Themefisher.com
+
+We have opted to host these sites as previews ourselves for cohesion purposes on Osows.com. Our Web Developers are skilled in the conversion of these themes into new customized websites for our clients. We have all rights necessary to conduct said conversion for our clients and use these themes as we see fit.
