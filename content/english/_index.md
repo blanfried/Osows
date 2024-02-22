@@ -133,7 +133,7 @@ download:
   content : "We thrive on your feedback and are available to address any inquiries you may have!"
   btn:
     label : "Contact Us!"
-    link : "conact/"
+    link : "contact/"
   # playstore:
   #   label : "Google Play"
   #   link : "#"
