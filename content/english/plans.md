@@ -11,14 +11,14 @@ layout: "pricing"
 draft: false
 
 pricing:
-  subtitle : "Pricing table"
-  title : "choose your plan"
+  subtitle : "The Goods"
+  title : "Plans and Extras"
   pricing_table:
   # pricing table loop
   - title : "Professionally Coded Website"
     price : "$99"
-    unit : "month"
-    description : "$999 Paid in Full or $99/Month for One Year"
+    unit : "month for 1 Year"
+    description : "or $999 Paid in Full"
     name: "Purchase"
     link : "#"
     services:

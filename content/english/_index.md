@@ -54,18 +54,21 @@ feature:
   feature_item:
     # feature item loop
     - name : "Step 1"
+      link: "themes/"
       image : "images/feature/feature-1.png"
-      content : "Explore a variety of curated themes[*](themes/) and select the one that matches your brand's essence."
+      content : "Explore a variety of curated themes and select the one that matches your brand's essence."
       
     # feature item loop
     - name : "Step 2"
+      link: "plans/"
       image : "images/feature/feature-2.png"
-      content : "After Purchasing \"Professionally Coded Website\"[*](plans/), we'll ask you some questions to understand your brand's personality, target audience, and unique selling points."
+      content : "After Purchasing \"Professionally Coded Website\", we'll ask you some questions to understand your brand's personality, target audience, and unique selling points."
 
     # feature item loop
     - name : "Step 3"
+      link: "services/"
       image : "images/feature/feature-3.png"
-      content : "We use this information to tailor your website according to your brand identity and objectives, transforming your vision into a website that resonates with your target audience."
+      content : "We use this information to tailor your website according to your brand identity and objectives, transforming your vision into a website that resonates with your target audience. To learn more about what we do, click this box!"
 
 
 ############################ video ###############################
