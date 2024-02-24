@@ -249,6 +249,19 @@
                 href="https://www.osows.com/fr/blog/cupidat-non-proident.9/"
                 />
   </url><url>
+    <loc>https://www.osows.com/fr/blog/</loc>
+    <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.osows.com/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://www.osows.com/fr/blog/"
+                />
+  </url><url>
     <loc>https://www.osows.com/fr/categories/development-maping/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
     <xhtml:link
@@ -364,19 +377,6 @@
                 rel="alternate"
                 hreflang="fr-fr"
                 href="https://www.osows.com/fr/categories/targated-marketing/"
-                />
-  </url><url>
-    <loc>https://www.osows.com/fr/blog/</loc>
-    <lastmod>2019-04-10T09:51:57+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.osows.com/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://www.osows.com/fr/blog/"
                 />
   </url><url>
     <loc>https://www.osows.com/fr/categories/valuable-idea/</loc>
