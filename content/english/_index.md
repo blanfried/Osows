@@ -54,9 +54,9 @@ feature:
   feature_item:
     # feature item loop
     - name : "Step 1"
-      link: "themes/"
+      link: "designs/"
       image : "images/feature/feature-1.png"
-      content : "Explore a variety of curated themes and select the one that matches your brand's essence."
+      content : "Explore a variety of curated designs and select the one that matches your brand's essence."
       
     # feature item loop
     - name : "Step 2"
