@@ -5,7 +5,7 @@ banner:
   bg_image : "images/background/banner.png"
   title : "Custom Websites Simple Process"
   watermark : ""
-  content : "Turning brands into stunning websites with ease."
+  content : "Making Branded Websites Easy and Possible for All"
   image : "images/banner/banner-1.png"
   button:
     enable : true
