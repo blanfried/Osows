@@ -5,7 +5,7 @@ date: 2019-04-10T09:51:57+06:00
 description : "this is meta description"
 short_description: "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
 page_header_image: "images/background/about.jpg"
-image : "images/themes/themes-post-6.jpg"
+image : "images/designs/designs-post-6.jpg"
 author : "ADMIN"
 type : "post"
 categories: 

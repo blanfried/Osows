@@ -8,7 +8,7 @@ page_header_image: "images/background/about.jpg"
 # meta description
 description : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
 # post image
-image : "images/themes/themes-post-5.jpg"
+image : "images/designs/designs-post-5.jpg"
 # post author
 author : "Admin"
 # post categories

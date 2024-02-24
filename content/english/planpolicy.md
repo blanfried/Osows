@@ -27,7 +27,7 @@ These terms, developed below, cover our ["**Professionally Coded Website Policy*
 [7. Login and Authentication Pages](#7-login-and-authentication-pages)  
 [8. Refunds and Cancellation](#8-refunds-and-cancellation)  
 [9. Accessibility Compliance](#9-accessibility-compliance)  
-[10. Designs](#10-themes)
+[10. Designs](#10-designs)
 
 ---
 
@@ -208,4 +208,4 @@ The credit for our Designs properly goes to:
 - GetHugoThemes.com
 - Themefisher.com
 
-We have opted to host these sites as previews ourselves for cohesion purposes on Osows.com. Our Web Developers are skilled in the conversion of these themes into new customized websites for our clients. We have all rights necessary to conduct said conversion for our clients and use these themes as we see fit.
+We have opted to host these sites as previews ourselves for cohesion purposes on Osows.com. Our Web Developers are skilled in the conversion of these designs into new customized websites for our clients. We have all rights necessary to conduct said conversion for our clients and use these designs as we see fit.
