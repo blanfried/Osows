@@ -6,8 +6,8 @@ URL = "services/"
 weight = 2
 
 [[main]]
-name = "Themes"
-URL = "themes/"
+name = "Designs"
+URL = "designs/"
 weight = 3
 
 [[main]]

@@ -27,7 +27,7 @@ These terms, developed below, cover our ["**Professionally Coded Website Policy*
 [7. Login and Authentication Pages](#7-login-and-authentication-pages)  
 [8. Refunds and Cancellation](#8-refunds-and-cancellation)  
 [9. Accessibility Compliance](#9-accessibility-compliance)  
-[10. Themes](#10-themes)
+[10. Designs](#10-themes)
 
 ---
 
@@ -203,8 +203,8 @@ To make your website accessible, we have partnered with [**accessiBe.com**](http
 
 ---
 
-#### 10. Themes
-The credit for our Themes properly goes to:
+#### 10. Designs
+The credit for our Designs properly goes to:
 - GetHugoThemes.com
 - Themefisher.com
 
