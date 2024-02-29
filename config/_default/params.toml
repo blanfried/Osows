@@ -57,13 +57,13 @@ link = "https://billing.osows.com/p/login/28odTm8gZgVm73G7ss"
 
 # contact info
 [contact_info]
-address = "San Diego, California, USA"
+address = ""
 mobile = ""
 email = "contact@osows.com"
 
 # google_map
 [google_map]
-enable = true
+enable = false
 embed_url = "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d193559.60513193885!2d-74.07513185946965!3d40.709896425630156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1677481601686!5m2!1sen!2sbd"
 
 # Subscription

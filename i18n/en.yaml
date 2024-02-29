@@ -26,19 +26,19 @@
   translation: Keep In Touch
 
 - id: form_subtitle
-  translation: Message
+  translation: Message Us
 
 - id: form_title
-  translation: Leave A Message
+  translation: Fancy a Chat?
 
 - id: submit_now
-  translation: Submit Now
+  translation: Send
 
 - id: quick_links
   translation: Quick Links
 
 - id: contact_info
-  translation: Contact Info
+  translation: Contact Us
 
 - id: search
   translation: Search

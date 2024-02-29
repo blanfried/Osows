@@ -253,6 +253,12 @@ iframe {
     }
   }
 
+  // More Contact Styling
+.contact-card {
+  box-shadow: 0px 0px 15px 0px rgba(8, 18, 109, 0.1) !important; 
+  margin-bottom: 100px;
+}
+
   &-sm {
     padding-top: 70px;
     padding-bottom: 70px;
@@ -478,6 +484,7 @@ input[type="search"]::-webkit-search-results-decoration {
   height: 60px;
   padding: 0 25px;
   border-radius: 50px;
+  box-shadow: 0px 0px 15px 0px rgba(8, 18, 109, 0.1) !important;
 
   &:focus {
     outline: 0;

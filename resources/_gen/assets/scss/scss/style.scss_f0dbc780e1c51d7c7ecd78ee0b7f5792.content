@@ -8217,6 +8217,9 @@ iframe {
       @media (max-width: 991px) {
         .section-lg-bottom {
           padding-bottom: 100px; } }
+  .section .contact-card {
+    box-shadow: 0px 0px 15px 0px rgba(8, 18, 109, 0.1) !important;
+    margin-bottom: 100px; }
   .section-sm {
     padding-top: 70px;
     padding-bottom: 70px; }
@@ -8367,7 +8370,8 @@ input[type="search"]::-webkit-search-results-decoration {
   border: 0;
   height: 60px;
   padding: 0 25px;
-  border-radius: 50px; }
+  border-radius: 50px;
+  box-shadow: 0px 0px 15px 0px rgba(8, 18, 109, 0.1) !important; }
   .form-control:focus {
     outline: 0;
     box-shadow: none; }
