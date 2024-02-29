@@ -45,7 +45,8 @@ theme_copyright = true
 enable = true
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
-# Image on custom success page `/message_sent.html`
+[subscription.form]
+# Image on custom success page `/subscription_success.html`
 success_image = "images/paper-plane.svg"
 
 # Navigation button
