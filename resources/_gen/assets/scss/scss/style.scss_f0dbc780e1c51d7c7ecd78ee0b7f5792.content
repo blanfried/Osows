@@ -8344,7 +8344,7 @@ iframe {
   background: linear-gradient(80deg, #0030cc 0%, #00a4db 100%);
   opacity: 0.9; }
   .page-title > div > div {
-    padding: 220px 0 100px; }
+    padding: 160px 0 80px; }
 
 .page-title h1, .page-title .h1 {
   font-size: 45px; }
@@ -8618,6 +8618,33 @@ textarea.form-control {
       margin: 0 auto 10px; } }
   #select-language option {
     color: black; }
+
+.page-message-sent {
+  display: flex;
+  align-items: center;
+  text-align: center; }
+  .page-message-sent h1, .page-message-sent .h1 {
+    font-size: 40px;
+    font-weight: bold; }
+    @media (max-width: 575px) {
+      .page-message-sent h1, .page-message-sent .h1 {
+        font-size: 40px; } }
+    @media (max-width: 400px) {
+      .page-message-sent h1, .page-message-sent .h1 {
+        font-size: 30px; } }
+  .page-message-sent h2, .page-message-sent .h2 {
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-top: 30px; }
+  .page-message-sent .btn {
+    margin-top: 50px;
+    margin-bottom: 140px; }
+  .page-message-sent img {
+    width: 50%;
+    max-height: 200px;
+    margin-top: 45px;
+    margin-bottom: 50px; }
 
 section.hero-area {
   padding: 200px 0 175px;
