@@ -28,7 +28,7 @@ mainSections = ["designs"]
 image_gallery = false
 
 # contact form action
-contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_action = "https://formspree.io/f/xoqgwpyg" # contact form works with [https://airform.io/] or [https://formspree.io]
 
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
@@ -44,6 +44,9 @@ theme_copyright = true
 [preloader]
 enable = true
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
+
+# Image on custom success page `/message_sent.html`
+success_image = "images/paper-plane.svg"
 
 # Navigation button
 [navigation_button]
@@ -66,7 +69,7 @@ embed_url = "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d193559.605131
 [subscription]
 enable = true
 # mailchimp subsciption
-mailchimp_form_action = "" # replace this url with yours
+mailchimp_form_action = "https://osows.us22.list-manage.com/subscribe/post?u=43cdbdc69d5811857f14866a7&amp;id=344db3ac72&amp;f_id=0066c2e1f0" # replace this url with yours
 mailchimp_form_name = "" # replace this code with yours
 
 # Crisp Chat
