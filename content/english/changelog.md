@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Changelog"
 description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt dolore magna aliquyam erat, sed diam voluptua. At vero eos et ustoLorem ipsum dolor sit amet, consetetur."
 page_header_image: "images/background/about-overlay.jpg" 
@@ -74,4 +74,4 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 {{</ changelog >}}
 
 {{< changelog "Unreleased" >}}
-{{</ changelog >}}
+{{</ changelog >}} -->
