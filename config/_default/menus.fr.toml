@@ -46,9 +46,9 @@ hasChildren = true
   URL = "faq/"
   
   [[main]]
-  parent = "Pages"
-  name = "Changelog"
-  URL = "changelog/"
+  # parent = "Pages"
+  # name = "Changelog"
+  # URL = "changelog/"
 
 #Footer menu
 [[footer]]
