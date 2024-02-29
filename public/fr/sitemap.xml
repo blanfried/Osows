@@ -469,18 +469,6 @@
                 href="https://www.osows.com/fr/about/"
                 />
   </url><url>
-    <loc>https://www.osows.com/fr/changelog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.osows.com/changelog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://www.osows.com/fr/changelog/"
-                />
-  </url><url>
     <loc>https://www.osows.com/fr/pricing/</loc>
   </url><url>
     <loc>https://www.osows.com/fr/service/</loc>
