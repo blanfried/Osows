@@ -1,4 +1,4 @@
 ---
-layout: "message_sent"
+layout: "subscription_success"
 draft: false
 ---
