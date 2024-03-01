@@ -129,7 +129,7 @@ testimonial:
 download:
   enable : true
   title : "Suggestions or Questions?"
-  image : "images/download-mobile-img.jpg"
+  image : "images/cta.svg"
   content : "We thrive on your feedback and are available to address any inquiries you may have!"
   btn:
     label : "Contact Us!"
