@@ -1,11 +1,11 @@
 ---
-title: "Our Service"
+title: "Our Services"
 # watermark text
-watermark: "Service"
+watermark: "Services"
 # page header background image
 page_header_image: "images/background/about.jpg"
 # meta description
-description : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
+description : ""
 
 layout : "service"
 draft : false
@@ -13,8 +13,8 @@ draft : false
 ############################### service ##############################
 service:
   enable : true
-  subtitle : "Services"
-  title : "Our Service Area"
+  subtitle : "Osows Starter Pack"
+  title : "Professionally Coded Website"
   service_item:
   - title : "Networking"
     icon : "far fa-object-ungroup"
@@ -60,8 +60,8 @@ service:
 ############################### Features #####################################
 feature:
   enable : true
-  subtitle : "fetures"
-  title : "exclusive features"
+  subtitle : "Spice Things Up"
+  title : "Add-Ons and Additional Subscriptions"
   feature_item:
   - title : "Exclusive Design"
     icon : "fas fa-desktop"
