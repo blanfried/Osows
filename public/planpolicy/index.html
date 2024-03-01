@@ -23021,6 +23021,9 @@ iframe {
       @media (max-width: 991px) {
         .section-lg-bottom {
           padding-bottom: 100px; } }
+  .section .contact-card {
+    box-shadow: 0px 0px 15px 0px rgba(8, 18, 109, 0.1) !important;
+    margin-bottom: 100px; }
   .section-sm {
     padding-top: 70px;
     padding-bottom: 70px; }
@@ -23171,7 +23174,8 @@ input[type="search"]::-webkit-search-results-decoration {
   border: 0;
   height: 60px;
   padding: 0 25px;
-  border-radius: 50px; }
+  border-radius: 50px;
+  box-shadow: 0px 0px 15px 0px rgba(8, 18, 109, 0.1) !important; }
   .form-control:focus {
     outline: 0;
     box-shadow: none; }
@@ -24937,9 +24941,9 @@ You will receive a 100% refund if you cancel your plan within three days of the 
           </ul>
         </div>
         <div class="col-lg-3 col-md-4 col-sm-6">
-          <h4 class="text-white mb-4">Contact Info</h4>
+          <h4 class="text-white mb-4">Contact Us</h4>
           <ul class="list-unstyled">
-            <li class="mb-3 text-light">San Diego, California, USA</li>
+            <li class="mb-3 text-light"></li>
             <li class="mb-3 text-light"></li>
             <li class="mb-3 text-light">contact@osows.com</li>
           </ul>
@@ -30908,6 +30912,50 @@ function render(templateString, data) {
 
 
 	
+
+
+
+	
+	<script defer>
+		(function(){
+		    var s    = document.createElement('script');
+		    var h    = document.querySelector('head') || document.body;
+		    s.src    = 'https://acsbapp.com/apps/app/dist/js/app.js';
+		    s.async  = true;
+		    s.onload = function(){
+			  acsbJS.init({
+				statementLink    : '',
+				footerHtml       : 'Powered by Osows',
+				hideMobile       : false,
+				hideTrigger      : false,
+				disableBgProcess : false,
+				language         : 'en',
+				position         : 'right',
+				leadColor        : '#007ac7',
+				triggerColor     : '#007ac7',
+				triggerRadius    : '50%',
+				triggerPositionX : 'right',
+				triggerPositionY : 'bottom',
+				triggerIcon      : 'people',
+				triggerSize      : 'medium',
+				triggerOffsetX   : 20,
+				triggerOffsetY   : 20,
+				mobile           : {
+				    triggerSize      : 'small',
+				    triggerPositionX : 'right',
+				    triggerPositionY : 'bottom',
+				    triggerOffsetX   : 10,
+				    triggerOffsetY   : 10,
+				    triggerRadius    : '50%'
+				}
+			  });
+		    };
+		    h.appendChild(s);
+		})();
+	  </script>
+
+
+
 </body>
 
 </html>
