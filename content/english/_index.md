@@ -6,7 +6,7 @@ banner:
   title : "Custom Websites Simple Process"
   watermark : ""
   content : "Making Branded Websites Easy and Possible for All"
-  image : "images/banner/banner-1.png"
+  image : "images/banner/banner-1.svg"
   button:
     enable : true
     label : "Our Services"
@@ -27,7 +27,7 @@ about:
   enable : true
   about_item:
     # about item loop
-    - image : "images/about/about-1.png"
+    - image : "images/about/about-1.svg"
       subtitle : "What We Do"
       title : "Professionally Coded Websites For All"
       content : "Through our simple and proven three-step process, we transmute visions into high-quality websites merging professional craftsmanship with creativity. Our mission is to create a more inclusive and innovative digital world for everyone."
@@ -37,9 +37,9 @@ about:
         # link : "#thesteps"
         
     # about item loop
-    - image : "images/about/about-2.png"
+    - image : "images/about/about-2.svg"
       subtitle : "Who We Are"
-      title : "Rooted in Ethics and a Genuine Desire to Help"
+      title : "Rooted in Ethics and a Desire to Help"
       content : "After completing his graduate course in Ethics, our founder wanted an easy and cost-effective way to help the individual and \"Mom & Pop\" succeed over big business. This led him to Osows, and the rest is history..."
       button:
         enable : true
@@ -55,33 +55,34 @@ feature:
     # feature item loop
     - name : "Step 1"
       link: "designs/"
-      image : "images/feature/feature-1.png"
+      image : "images/feature/feature-1.svg"
       content : "Explore a variety of curated designs and select the one that matches your brand's essence."
       
     # feature item loop
     - name : "Step 2"
       link: "plans/"
-      image : "images/feature/feature-2.png"
+      image : "images/feature/feature-2.svg"
       content : "After Purchasing \"Professionally Coded Website\", we'll ask you some questions to understand your brand's personality, target audience, and unique selling points."
 
     # feature item loop
     - name : "Step 3"
       link: "services/"
-      image : "images/feature/feature-3.png"
+      image : "images/feature/feature-3.svg"
       content : "We use this information to tailor your website according to your brand identity and objectives, transforming your vision into a website that resonates with your target audience. To learn more about what we do, click this box!"
 
 
 ############################ video ###############################
 promo_video:
   enable : true
-  video_thumbnail : "images/check-video.png"
-  video_link : "https://www.youtube.com/embed/nqye02H_H6I?autoplay=1"
-  subtitle : "Check Video"
-  title : "Best Way to Chat Your Customers."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis aute.
+  video_thumbnail : "images/check-video.svg"
+  #need to embed a youtube video for it to work
+  video_link : ""
+  subtitle : "Cheeky Vid"
+  title : "A Message from Our Founder (coming soon)"
+  content : "Learn about Osows in a more stimulating video format!
   
 
-  Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident."
+  Our founder, Baer, gives a little run-through of our mission, who we are, what we do, and how we do it."
 
 # testimonial
 testimonial:

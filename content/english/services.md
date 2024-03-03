@@ -13,7 +13,7 @@ draft : false
 ############################### service ##############################
 service:
   enable : true
-  subtitle : "Osows Starter Pack"
+  subtitle : "What's Included"
   title : "Professionally Coded Website"
   service_item:
   - title : "Networking"
