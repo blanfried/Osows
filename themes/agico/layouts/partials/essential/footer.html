@@ -8,6 +8,7 @@
             {{ partial "logo.html" (dict "Alt" site.Title)}}
           </a>
           <p class="text-light mb-4">{{ site.Params.footer_content | markdownify }}</p>
+          <h2>Baer & Osows</h2>
           <ul class="list-inline social-icons">
             {{ range site.Params.social }}
             <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i> <span class="screen-reader-text">{{.title}}</span></a></li>
@@ -24,7 +25,8 @@
         </div>
         <div class="col-lg-3 col-md-4 col-sm-6">
           <h4 class="text-white mb-4">{{ i18n "contact_info"}}</h4>
-          <ul class="list-unstyled">
+          <ul class="list-unstyled list-hover-underline">
+            <li class="mb-3 text-light"><a href="../contact/" class="text-light">Message Us</a></li>
             <li class="mb-3 text-light">{{site.Params.contact_info.address | safeHTML }}</li>
             <li class="mb-3 text-light">{{site.Params.contact_info.mobile | safeHTML }}</li>
             <li class="mb-3 text-light">{{site.Params.contact_info.email | safeHTML }}</li>
