@@ -123,15 +123,15 @@ content = "This site uses cookies. By continuing to use this website, you agree 
 button = "I Accept"
 
 ############################# social site ########################
-[[social]]
-title = "facebook"
-icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+# [[social]]
+# title = "facebook"
+# icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#"
 
-[[social]]
-title = "twitter"
-icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+# [[social]]
+# title = "twitter"
+# icon = "fa-brands fa-x-twitter" # fontawesome icon pack : https://fontawesome.com/icons/x-twitter?f=brands&s=solid
+# link = "#"
 
 [[social]]
 title = "instagram"
