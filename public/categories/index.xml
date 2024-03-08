@@ -5,12 +5,11 @@
     <link>https://www.osows.com/categories/</link>
     <description>Recent content in Categories on Osows</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 10 Apr 2019 09:51:57 +0600</lastBuildDate><atom:link href="https://www.osows.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.osows.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agency</title>
       <link>https://www.osows.com/categories/agency/</link>
-      <pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.osows.com/categories/agency/</guid>
       <description></description>
@@ -19,7 +18,7 @@
     <item>
       <title>Brochure</title>
       <link>https://www.osows.com/categories/brochure/</link>
-      <pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.osows.com/categories/brochure/</guid>
       <description></description>
@@ -28,7 +27,7 @@
     <item>
       <title>E-commerce</title>
       <link>https://www.osows.com/categories/e-commerce/</link>
-      <pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.osows.com/categories/e-commerce/</guid>
       <description></description>
@@ -37,7 +36,7 @@
     <item>
       <title>Personal</title>
       <link>https://www.osows.com/categories/personal/</link>
-      <pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.osows.com/categories/personal/</guid>
       <description></description>
@@ -46,7 +45,7 @@
     <item>
       <title>SaaS</title>
       <link>https://www.osows.com/categories/saas/</link>
-      <pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.osows.com/categories/saas/</guid>
       <description></description>

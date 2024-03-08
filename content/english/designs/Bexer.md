@@ -1,6 +1,6 @@
 ---
 title: "Bexer"
-date: 2019-04-10T09:51:57+06:00
+# date: 2019-04-10T09:51:57+06:00
 # watermark text
 watermark: "Designs"
 # page header background image
