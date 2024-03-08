@@ -13,10 +13,12 @@
             class="text-dark fw-bold">{{ .Description }}</span></p> -->
 
             <!-- iframe html -->
-            <div class="button" id="desktopButton">Desktop</div>
-            <div class="button" id="mobileButton">Mobile/Tablet</div>
+            <div class="mb-2" data-aos="fade-right" data-aos-delay="200">
+            <div class= "btn btn-outline-primary" id="desktopButton">Desktop</div>
+            <div class= "btn btn-outline-primary" id="mobileButton">Mobile/Tablet</div>
+          </div>
             <div>
-          <iframe id="myIframe" class="desktop" src="https://osows.github.io/{{ .Title | urlize }}/"></iframe>
+          <iframe id="myIframe" class="desktop shadow" src="https://osows.github.io/{{ .Title | urlize }}/"></iframe>
         </div>
   
         <div class="content">
