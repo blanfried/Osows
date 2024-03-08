@@ -12,7 +12,7 @@ image : "images/designs/Agen.jpg"
 # post author
 author : "Admin"
 # post categories
-categories: ["Agency", "SaaS"]
+categories: ["Agency","SaaS"]
 # post tags
 tags: [""]
 # type

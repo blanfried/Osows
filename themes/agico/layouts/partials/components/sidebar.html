@@ -1,6 +1,7 @@
 <div class="col-lg-4">
   <div class="rounded-sm shadow bg-white pb-4">
-    <div class="widget">
+    <!-- Removed Search feature (unnecessary and too much work) -->
+    <!-- <div class="widget">
       <h4>{{ i18n "search" }}</h4>
       <form action="{{ `search`| relLangURL }}">
         <div class="position-relative">
@@ -9,7 +10,7 @@
           <button class="search-btn" type="submit"><i class="fa fa-search"></i></button>
         </div>
       </form>
-    </div>
+    </div> -->
     <div class="widget">
       <h4>{{ i18n "category" }}</h4>
       {{- if isset .Site.Taxonomies "categories" }}
@@ -31,7 +32,7 @@
           {{ partial "image.html" (dict "Src" .Params.Image "Alt" "post-thumb" "Class" `object-fit-cover rounded me-3` "Size" "200x") }}
           <div class="media-body d-inline-block">
             <h5 class="h6 mt-0"><a href="{{ .Permalink }}" class="text-dark">{{ .Title }}</a></h5>
-            <p class="mb-0 text-color">{{ .PublishDate.Format "Jan 02, 2006" }}</p>
+            <p class="mb-0 text-color">{{ .Description }}</p>
           </div>
         </li>
         {{ end }}
