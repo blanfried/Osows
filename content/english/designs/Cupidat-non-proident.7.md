@@ -12,9 +12,9 @@ image : "images/designs/designs-post-7.jpg"
 # post author
 author : "Admin"
 # post categories
-categories: ["Investment Planning"]
+categories: [""]
 # post tags
-tags: ["Advice"]
+tags: [""]
 # type
 type : "post"
 draft : true

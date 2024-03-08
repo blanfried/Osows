@@ -14,7 +14,7 @@ author : "Admin"
 # post categories
 categories: ["Agency", "SaaS"]
 # post tags
-tags: ["Advice","Marketing"]
+tags: [""]
 # type
 type : "post"
 ---

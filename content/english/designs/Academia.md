@@ -14,7 +14,7 @@ author : "Admin"
 # post categories
 categories: ["Personal", "Brochure"]
 # post tags
-tags: ["Advice","Business","Consultancy","Market Analysis","Marketing","Finance"]
+tags: [""]
 # type
 type : "post"
 ---

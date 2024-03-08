@@ -10,10 +10,10 @@ author : "ADMIN"
 type : "post"
 draft : true
 categories: 
-  - "Targated Marketing"
+  - ""
 tags:
-  - "Advice"
-  - "Business"
+  - ""
+  - ""
 ---
 
 ### Elit duied aiusmod tempor did labore dolory

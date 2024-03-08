@@ -14,7 +14,7 @@ author : "Admin"
 # post categories
 categories: ["E-commerce"]
 # post tags
-tags: ["Advice","Business","Marketing","Finance"]
+tags: [""]
 # type
 type : "post"
 ---
