@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SaaS on Osows</title>
+    <link>https://www.osows.com/categories/saas/</link>
+    <description>Recent content in SaaS on Osows</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2019 09:51:57 +0600</lastBuildDate><atom:link href="https://www.osows.com/categories/saas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agen</title>
+      <link>https://www.osows.com/designs/agen/</link>
+      <pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate>
+      
+      <guid>https://www.osows.com/designs/agen/</guid>
+      <description>Elit duied aiusmod tempor did labore dolory Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Andromeda</title>
+      <link>https://www.osows.com/designs/andromeda/</link>
+      <pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate>
+      
+      <guid>https://www.osows.com/designs/andromeda/</guid>
+      <description>Elit duied aiusmod tempor did labore dolory Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Bexer</title>
+      <link>https://www.osows.com/designs/bexer/</link>
+      <pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate>
+      
+      <guid>https://www.osows.com/designs/bexer/</guid>
+      <description>Elit duied aiusmod tempor did labore dolory Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
