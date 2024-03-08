@@ -23860,6 +23860,46 @@ form textarea {
   height: 180px; }
 
 /* /designs single */
+.designs-single {
+  /* Iframe styles "Portfolio" */ }
+  .designs-single #myIframe {
+    transition: all 0.3s ease;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 100%;
+    height: 500px; }
+  .designs-single #myIframe.desktop {
+    width: 100%;
+    height: 500px; }
+  .designs-single #myIframe.mobile {
+    width: 50%;
+    height: 600px; }
+  .designs-single .button {
+    border-radius: 7px;
+    padding: 10px;
+    margin: 10px;
+    background: #007ac7;
+    color: #fff;
+    display: inline-block;
+    font-size: 16px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all, 0.2s, ease; }
+    @media (prefers-reduced-motion: reduce) {
+      .designs-single .button {
+        transition: none; } }
+    @media (max-width: 767px) {
+      .designs-single .button {
+        display: none; } }
+    @media (max-width: 575px) {
+      .designs-single .button {
+        display: none; } }
+    @media (max-width: 400px) {
+      .designs-single .button {
+        display: none; } }
+  .designs-single .button:hover {
+    background-color: #023062; }
+
 footer > div:first-child {
   border-bottom: 1px solid #2d3041; }
 
@@ -24236,110 +24276,22 @@ style="background-image: url(/images/shape/page-title_hu511eef7762e5ee773dbc54dc
 
 
 
-<section class="section section-lg-bottom">
+<section class="designs-single section section-lg-bottom">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 rounded-sm pe-5">
+      <div class="col-lg-8 rounded-sm pe-3">
+        
         
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            
+            <div class="button" id="desktopButton">Desktop</div>
+            <div class="button" id="mobileButton">Mobile/Tablet</div>
+            <div>
+          <iframe id="myIframe" class="desktop" src="https://osows.github.io/academia/"></iframe>
+        </div>
   
-
-
-
-
-
-  
-
-  
-  
-    
-      
-    
-
-
-    
-    
-
-
-    
-    
-      
-      
-    
-    
-    
-
-
-    
-    
-      
-      
-        
-        
-        
-        
-        
-        
-
-
-        
-        
-
-
-        <img
-          
-            src="/images/designs/Academia_hu4065b9a417233a2fbb5103aef431fcd1_59413_990x0_resize_q90_h2_lanczos.webp" loading="lazy" decoding="async"
-          
-
-          alt="post-thumb"
-          class=" rounded-sm w-100 mb-5 img"
-          width="990"
-          height="662"
-          onerror="this.onerror='null';this.src='\/images\/designs\/Academia_hu4065b9a417233a2fbb5103aef431fcd1_59413_990x0_resize_q90_lanczos.jpg';" />
-
-        
-      
-      
-    
-    
-  
-
-
-  
-
-
-        <p class="text-color card-date position-relative d-inline-block">BY <span
-            class="text-dark fw-bold">Admin</span> / ON <span
-            class="text-dark fw-bold">Brochure Style Website</span></p>
         <div class="content">
           
-          
-          <div class="button" id="mobileButton">Mobile/Tablet</div>
-          <div class="button" id="desktopButton">Desktop</div>
-        <iframe id="myIframe" class="mobile" src="https://osows.github.io/academia/"></iframe>
         </div>
         <div class="my-5">
           <h5 class="d-inline-block me-3">Share:</h5>
@@ -24354,27 +24306,6 @@ style="background-image: url(/images/shape/page-title_hu511eef7762e5ee773dbc54dc
         </div>
 
         
-        
-        <div id="disqus_thread"></div>
-<script type="application/javascript">
-    window.disqus_config = function () {
-    
-    
-    
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "themefisher-template" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
         
       </div>
       <div class="col-lg-4">
@@ -28134,7 +28065,7 @@ style="background-image: url(/images/shape/page-title_hu511eef7762e5ee773dbc54dc
 
   
 
-<script crossorigin="anonymous" defer integrity="sha512-ienkk6avgfEHCUdUt1UE9ckN2j94qoZ6J&#43;GQy2jwZG7iiWJjDgoK&#43;PDM39TOCXff5nDa3ka8jm3QtwFcA3hFBA==" type="application/javascript">!(function (e) {
+<script crossorigin="anonymous" defer integrity="sha512-SzFOZhojN6roqNBwBkCpytguQl2hUbOP3iloXet11PejINtJl1hwo/XM5Fw9Wpf3z5ULHgWnfhUUtSAJKCsqww==" type="application/javascript">!(function (e) {
   var n;
   if (
     ("function" == typeof define && define.amd && (define(e), (n = !0)),
@@ -30720,7 +30651,18 @@ function render(templateString, data) {
     }
   });
 
-})();</script>
+})();
+
+  // iframe script
+  document.getElementById('desktopButton').addEventListener('click', function() {
+    var iframe = document.getElementById('myIframe');
+    iframe.className = 'desktop';
+  });
+
+  document.getElementById('mobileButton').addEventListener('click', function() {
+    var iframe = document.getElementById('myIframe');
+    iframe.className = 'mobile';
+  });</script>
 
 
 
