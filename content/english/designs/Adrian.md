@@ -6,13 +6,13 @@ watermark: "Designs"
 # page header background image
 page_header_image: "images/background/about.jpg"
 # meta description
-description : "E-commerce Style Website"
+description : "E-Commerce Style Website"
 # post image
 image : "images/designs/Adrian.jpg"
 # post author
 author : "Admin"
 # post categories
-categories: ["E-commerce"]
+categories: ["E-Commerce"]
 # post tags
 tags: [""]
 # type
