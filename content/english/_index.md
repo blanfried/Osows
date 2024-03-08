@@ -6,7 +6,7 @@ banner:
   title : "Custom Websites Simple Process"
   watermark : ""
   content : "Making Branded Websites Easy and Possible for All"
-  image : "images/banner/banner-1.svg"
+  image : "images/banner/banner-1.webp"
   button:
     enable : true
     label : "Our Services"
