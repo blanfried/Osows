@@ -44,16 +44,16 @@
   translation: Search
 
 - id: category
-  translation: Category
+  translation: Categories
 
 - id: latest_article
-  translation: Latest Article
+  translation: Featured Sites
 
 - id: tags
   translation: Tags
 
 - id: subscribe_newsletter
-  translation: Subscribe <br> to our newsletter
+  translation: Subscribe to <br> Baer's newsletter
 
 - id: subscribe_now
-  translation: Subscribe Now
+  translation: Subscribe
