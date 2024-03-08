@@ -95,3 +95,70 @@ form {
 }
 
 /* /designs single */
+.designs-single {
+    /* Iframe styles "Portfolio" */
+    #myIframe {
+      transition: all 0.3s ease;
+      border: 1px solid;
+      border-radius: 5px;
+      width: 100%;
+      height: 500px;
+    }
+  
+    #myIframe.desktop {
+      width: 100%;
+      height: 500px;
+      }
+  
+    #myIframe.mobile {
+      width: 50%;
+      height: 600px;
+  
+      // @include tablet {
+      // width: 100%;
+      // height: 500px;
+      //   }
+  
+      // @include mobile {
+      //   width: 100%;
+      //   height: 500px;
+      //     }
+  
+      // @include mobile-xs {
+      //   width: 100%;
+      //   height: 500px;
+      //     }
+    }
+
+    .button {
+      border-radius: 7px;
+      padding: 10px;
+      margin: 10px;
+      background: $color-primary;
+      color: $white;
+      display: inline-block;
+      font-size: 16px;
+      letter-spacing: 1px;
+      cursor: pointer;
+      // padding: 14px 20px;
+      // border-radius: 0;
+      @include transition (all, 0.2s, ease);
+  
+      @include tablet {
+        display: none;
+        }
+  
+      @include mobile {
+        display: none;
+        }
+  
+      @include mobile-xs {
+        display: none;
+        }
+    }
+  
+    .button:hover {
+      background-color: #023062;
+    }
+  
+  }

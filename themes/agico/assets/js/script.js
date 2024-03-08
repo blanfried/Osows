@@ -151,3 +151,14 @@
   });
 
 })();
+
+  // iframe script
+  document.getElementById('desktopButton').addEventListener('click', function() {
+    var iframe = document.getElementById('myIframe');
+    iframe.className = 'desktop';
+  });
+
+  document.getElementById('mobileButton').addEventListener('click', function() {
+    var iframe = document.getElementById('myIframe');
+    iframe.className = 'mobile';
+  });
