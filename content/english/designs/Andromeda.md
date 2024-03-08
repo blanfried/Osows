@@ -1,20 +1,20 @@
 ---
-title: "Cupidat non proident sunt officia deserunt mollit anim."
+title: "Andromeda"
 date: 2019-04-10T09:51:57+06:00
 # watermark text
 watermark: "Designs"
 # page header background image
 page_header_image: "images/background/about.jpg"
 # meta description
-description : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
+description : "Agency Style Website"
 # post image
-image : "images/designs/designs-post-3.jpg"
+image : "images/designs/Andromeda.jpg"
 # post author
 author : "Admin"
 # post categories
-categories: ["Market Strategy"]
+categories: ["Agency", "SaaS"]
 # post tags
-tags: ["Advice","Marketing","Finance"]
+tags: ["Advice","Marketing"]
 # type
 type : "post"
 ---

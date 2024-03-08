@@ -14,7 +14,8 @@
             <article class="card border-0 shadow rounded-lg">
               {{ partial "image.html" (dict "Src" .Params.Image "Alt" "post thumb" "Class" `card-img-top rounded-top-lg`) }}
               <div class="card-body">
-                <p class="card-date">{{ .PublishDate.Format "Jan 02, 2006" }}</p>
+                <!-- Changed date to Description. if change back put ".PublishDate.Format "Jan 02, 2006"" -->
+                <p class="card-date">{{ .Description }}</p>
                 <h5 class="lh-base"><a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a></h5>
               </div>
             </article>

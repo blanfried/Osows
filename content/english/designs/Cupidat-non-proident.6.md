@@ -8,6 +8,7 @@ page_header_image: "images/background/about.jpg"
 image : "images/designs/designs-post-6.jpg"
 author : "ADMIN"
 type : "post"
+draft : true
 categories: 
   - "Targated Marketing"
 tags:

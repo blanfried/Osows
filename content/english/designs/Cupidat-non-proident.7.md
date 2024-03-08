@@ -17,6 +17,7 @@ categories: ["Investment Planning"]
 tags: ["Advice"]
 # type
 type : "post"
+draft : true
 ---
 
 ### Elit duied aiusmod tempor did labore dolory

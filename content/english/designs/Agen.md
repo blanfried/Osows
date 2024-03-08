@@ -1,20 +1,20 @@
 ---
-title: "Cupidat non proident sunt officia deserunt mollit anim."
+title: "Agen"
 date: 2019-04-10T09:51:57+06:00
 # watermark text
 watermark: "Designs"
 # page header background image
 page_header_image: "images/background/about.jpg"
 # meta description
-description : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
+description : "Agency Style Website"
 # post image
-image : "images/designs/designs-post-5.jpg"
+image : "images/designs/Agen.jpg"
 # post author
 author : "Admin"
 # post categories
-categories: ["Afiliated Marketing"]
+categories: ["Agency", "SaaS"]
 # post tags
-tags: ["Marketing","Finance"]
+tags: ["Advice","Business","Consultancy","Market Analysis","Marketing","Finance"]
 # type
 type : "post"
 ---
