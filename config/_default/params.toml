@@ -158,6 +158,7 @@ title = "Youtube"
 icon = "fab fa-youtube" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "https://www.youtube.com/channel/UC9l_27z0J81ZiwOoc_-uQGg"
 
+# Change to substack logo whenn available on fontawesome
 [[social]]
 title = "Substack"
 icon = "fa-solid fa-bookmark" # fontawesome icon pack : https://fontawesome.com/icons/
