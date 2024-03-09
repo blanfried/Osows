@@ -8,7 +8,7 @@
             {{ partial "logo.html" (dict "Alt" site.Title)}}
           </a>
           <p class="text-light mb-4">{{ site.Params.footer_content | markdownify }}</p>
-          <h2>Baer & Osows</h2>
+          <h2>Baer Socials</h2>
           <ul class="list-inline social-icons">
             {{ range site.Params.social }}
             <li class="list-inline-item"><a href="{{ .link | safeURL }}" target="_blank" rel="noopener noreferrer"><i class="{{ .icon }}"></i> <span class="screen-reader-text">{{.title}}</span></a></li>

@@ -147,3 +147,18 @@ link = "https://github.com/blanfried"
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "https://www.linkedin.com/in/baer-lanfried-488ab61aa/"
+
+[[social]]
+title = "medium"
+icon = "fab fa-medium" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://medium.com/@baerlanfried_99543"
+
+[[social]]
+title = "Youtube"
+icon = "fab fa-youtube" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.youtube.com/channel/UC9l_27z0J81ZiwOoc_-uQGg"
+
+[[social]]
+title = "Substack"
+icon = "fa-solid fa-bookmark" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://baerlanfried.substack.com/"
