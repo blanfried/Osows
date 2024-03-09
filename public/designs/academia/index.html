@@ -23878,32 +23878,15 @@ form textarea {
     height: 600px;
     border: .5px solid;
     box-shadow: 0px 10px 20px 0px rgba(0, 141, 236, 0.1); }
-  .designs-single .button {
-    border-radius: 7px;
-    padding: 10px;
-    margin: 10px;
-    background: #007ac7;
-    color: #fff;
-    display: inline-block;
-    font-size: 16px;
-    letter-spacing: 1px;
-    cursor: pointer;
-    transition: all, 0.2s, ease; }
-    @media (prefers-reduced-motion: reduce) {
-      .designs-single .button {
-        transition: none; } }
-    @media (max-width: 767px) {
-      .designs-single .button {
-        display: none; } }
-    @media (max-width: 575px) {
-      .designs-single .button {
-        display: none; } }
-    @media (max-width: 400px) {
-      .designs-single .button {
-        display: none; } }
-  .designs-single .button:hover {
-    background-color: #023062; }
-
+  @media (max-width: 767px) {
+    .designs-single .button {
+      display: none; } }
+  @media (max-width: 575px) {
+    .designs-single .button {
+      display: none; } }
+  @media (max-width: 400px) {
+    .designs-single .button {
+      display: none; } }
 footer > div:first-child {
   border-bottom: 1px solid #2d3041; }
 
@@ -24289,8 +24272,8 @@ style="background-image: url(/images/shape/page-title_hu511eef7762e5ee773dbc54dc
 
             
             <div class="mb-2" data-aos="fade-right" data-aos-delay="200">
-            <div class= "btn btn-outline-primary" id="desktopButton">Desktop</div>
-            <div class= "btn btn-outline-primary" id="mobileButton">Mobile/Tablet</div>
+            <div class= "button btn btn-outline-primary" id="desktopButton">Desktop</div>
+            <div class= "button btn btn-outline-primary" id="mobileButton">Mobile/Tablet</div>
           </div>
             <div>
           <iframe id="myIframe" class="desktop shadow" src="https://osows.github.io/academia/"></iframe>
