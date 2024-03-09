@@ -65,42 +65,42 @@ service2:
   subtitle : "What's Included"
   title : "Website Management"
   service_item2:
-  - title : "Design"
+  - title : "Web Hosting"
     icon : "far fa-object-ungroup"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
 
-  - title : "Copywriting"
+  - title : "SEO Monitoring"
     icon : "fas fa-users"
     icon_color : "yellow" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
 
-  - title : "Web Hosting"
+  - title : "Domain Coverage"
     icon : "fas fa-desktop"
     icon_color : "purple" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
 
-  - title : "Marketing"
+  - title : "3 Branding Changes/Month"
     icon : "fas fa-cloud"
     icon_color : "cyan" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
     
-  - title : "Domain Coverage"
+  - title : "Up to 5 New Website Pictures"
     icon : "far fa-comments"
     icon_color : "red" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
     
-  - title : "Up To 6 Pages + Account Page"
+  - title : "3 Website Customizations/Month"
     icon : "fas fa-search-plus"
     icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
     
-  - title : "1 Year of Website Management"
+  - title : "Google Tag & Analytics Monitoring"
     icon : "fas fa-chart-line"
     icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
     
-  - title : "SEO and Performance"
+  - title : "Unlimited Troubleshooting and Error Correcting"
     icon : "fab fa-wpexplorer"
     icon_color : "blue" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
