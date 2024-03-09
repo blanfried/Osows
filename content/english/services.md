@@ -11,6 +11,7 @@ layout : "service"
 draft : false
 
 ############################### service ##############################
+############################### Professionally Coded Website ##############################
 service:
   enable : true
   subtitle : "What's Included"
@@ -58,6 +59,7 @@ service:
 
 
 ############################### service2 ##############################
+############################### Website Management ##############################
 service2:
   enable : true
   subtitle : "What's Included"
@@ -105,6 +107,7 @@ service2:
 
 
 ############################### Features #####################################
+############################### Add-Ons #####################################
 feature:
   enable : true
   subtitle : "Spice Things Up"
