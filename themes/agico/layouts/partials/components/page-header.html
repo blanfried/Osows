@@ -1,6 +1,6 @@
 {{ "<!-- page-header -->" | safeHTML }}
-<section class="page-title page-title-overlay bg-cover" {{ partial `bg-image.html` (dict `Src` .Params.page_header_image
-  ) | safeHTMLAttr }}>
+<!-- Removed because better plain: {{ partial `bg-image.html` (dict `Src` .Params.page_header_image) | safeHTMLAttr }} -->
+<section class="page-title page-title-overlay bg-cover">
   <div>
     <div {{ partial `bg-image.html` (dict `Src` "images/shape/page-title.png" ) | safeHTMLAttr }}>
       <div class="container">
