@@ -1,6 +1,7 @@
 {{ define "main" }}
 
 {{ partial "components/services.html" . }}
+{{ partial "components/services2.html" . }}
 
 {{"<!-- features -->"| safeHTML}}
 {{ if .Params.feature.enable }}
@@ -15,7 +16,8 @@
       {{ range $index, $element:= .feature_item }}
       {{ $delay := mul $index 100}}
       <div class="col-lg-4 col-md-6 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="{{$delay}}">
-        <div class="text-center shadow card py-3 border-0 rounded-sm">
+      <!-- removed shadow on line below because looked like should be clickable -->
+        <div class="text-center card py-3 border-0 rounded-sm">
           <div class="card-body">
             <i class="icon-lg icon-bg-square mb-3 d-inline-block icon-{{.icon_color}}">
               <i class="{{ .icon }}"></i>
