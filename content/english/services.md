@@ -14,9 +14,10 @@ draft : false
 ############################### Osows Website ##############################
 service:
   enable : true
-  subtitle : "Getting Started"
+  subtitle : "Launch Your Online Presence"
   title : "Osows Website"
-  subtitle2 : "The first step with us is purchasing Osows Website. Below is what is included with your website."
+  # subtitle2 : ""
+  subtitle2 : "Personalized, powerful, and packed with these essential features:"
   service_item:
   - title : "Design"
     icon : "far fa-object-ungroup"
@@ -63,9 +64,10 @@ service:
 ############################### Osows Website Management ##############################
 service2:
   enable : true
-  subtitle : "Next Step"
+  subtitle : "Experience Seamless Continuity"
   title : "Osows Website Management"
-  subtitle2 : "Test 2"
+  # subtitle2 : "Experience seamless continuity with:"
+  subtitle2 : "Comprehensive support that lifts the burden, ensuring your site thrives effortlessly."
   service_item2:
   - title : "Web Hosting"
     icon : "far fa-object-ungroup"
@@ -112,20 +114,36 @@ service2:
 ############################### Add-Ons #####################################
 feature:
   enable : true
-  subtitle : "Spice Things Up"
-  title : "Add-Ons and Additional Subscriptions"
+  subtitle : "Your Site's Full Potential"
+  title : "Osows Extras"
+  subtitle2 : "Expand, comply, and excel effortlessly:"
   feature_item:
-  - title : "Exclusive Design"
+  - title : "Full Legal"
+    icon : "fas fa-shield-alt"
+    icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+    
+  - title : "Account Page"
     icon : "fas fa-desktop"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
     
-  - title : "Easy Customize"
+  - title : "Product Posting"
     icon : "fas fa-cogs"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
     
-  - title : "Extreme Security"
+  - title : "Additional Pages"
+    icon : "fas fa-shield-alt"
+    icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+
+  - title : "Full Accessibility"
+    icon : "fas fa-shield-alt"
+    icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+
+  - title : "Blog Creation and Posting"
     icon : "fas fa-shield-alt"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."

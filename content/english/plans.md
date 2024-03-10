@@ -28,7 +28,7 @@ pricing:
       - Marketing Functionality
       - 1 Year of Domain Coverage
       - Up To 6 Pages + Account Page
-      - 1 Year of Osows Osows Website Management
+      - 1 Year of Osows Website Management
       - Highest Possible SEO and Performance
       
 
@@ -58,10 +58,10 @@ pricing:
     name: "See Details"
     link : "../planpolicy/"
     services:
+    - Full Legal
     - Account Page
     - Product Posting
+    - Full Accessibility
     - Additional Pages
-    - Full Legal Compliance
-    - Accessibility Compliance
     - Blog Creation and Posting
 ---
