@@ -11,15 +11,15 @@ description: "Last Updated: February 20, 2024"
 ## What This Document Covers
 Upon payment for an Osows Plan, and thereby agreeing with our Terms of Service, you also agree to the terms laid out in this Plan Policy.
 
-These terms, developed below, cover our ["**Professionally Coded Website Policy**"](#1-professionally-coded-website-policy), ["**Website Management Policy**"](#2-website-management-policy), ["**Refunds and Cancellation Policy**"](#8-refunds-and-cancellation), as well as any additional purchases ("add-ons" or "additional subscriptions") that may be added onto the original "Plan" purchase and the terms which go along with each additional purchase. By "Plan" it is meant the original Osows [**"Professionally Coded Website"**](#1-professionally-coded-website) Plan, which is the base of all other additional subscriptions or add-ons. In order to purchase additional subscriptions, like [**"Website Management"**](#2-website-management) or add-ons, one must have either paid for the Plan "in Full" (see section 1) or currently be on or finished with the "One Year Payment Route" (OYPR) regarding the Plan (see section 1). An "add-on" is an addition to the Plan and constitutes a *one-time purchase* (i.e., not a recurring payment, unless coupled with the OYPR for the Plan, in which case the payment ceases at the end of the one year cycle along with the Plan itself). Examples of add-ons include ["**Additional Pages**"](#4-additional-pages) or [**Initial "Blog" or "Products" Page**](#5-blog-and-product-postings). An "additional subscription" is any subscription other than the Plan under the OYPR. Additional subscriptions constitute a *recurring payment* over an indefinite period of time (i.e., not confined to the scope of the Plan under the OYPR). Examples of additional subscriptions are [**"Website Management"**](#2-website-management), ["**Full Legal Compliance**"](#6-creation-of-terms-of-service-and-privacy-policy), ["**Accessibility Compliance**"](#9-accessibility-compliance) or [**"Blog/Product Posting"**](#5-blog-and-product-postings).
+These terms, developed below, cover our ["**Osows Website Policy**"](#1-osows-website-policy), ["**Osows Website Management Policy**"](#2-osows-website-management-policy), ["**Refunds and Cancellation Policy**"](#8-refunds-and-cancellation), as well as any additional purchases ("add-ons" or "additional subscriptions") that may be added onto the original "Plan" purchase and the terms which go along with each additional purchase. By "Plan" it is meant the original Osows [**"Osows Website"**](#1-osows-website) Plan, which is the base of all other additional subscriptions or add-ons. In order to purchase additional subscriptions, like [**"Osows Website Management"**](#2-osows-website-management) or add-ons, one must have either paid for the Plan "in Full" (see section 1) or currently be on or finished with the "One Year Payment Route" (OYPR) regarding the Plan (see section 1). An "add-on" is an addition to the Plan and constitutes a *one-time purchase* (i.e., not a recurring payment, unless coupled with the OYPR for the Plan, in which case the payment ceases at the end of the one year cycle along with the Plan itself). Examples of add-ons include ["**Additional Pages**"](#4-additional-pages) or [**Initial "Blog" or "Products" Page**](#5-blog-and-product-postings). An "additional subscription" is any subscription other than the Plan under the OYPR. Additional subscriptions constitute a *recurring payment* over an indefinite period of time (i.e., not confined to the scope of the Plan under the OYPR). Examples of additional subscriptions are [**"Osows Website Management"**](#2-osows-website-management), ["**Full Legal Compliance**"](#6-creation-of-terms-of-service-and-privacy-policy), ["**Accessibility Compliance**"](#9-accessibility-compliance) or [**"Blog/Product Posting"**](#5-blog-and-product-postings).
 
 ---
 
 # Table of Contents
 
 [What This Document Covers](#what-this-document-covers)  
-[1. “Professionally Coded Website” Policy](#1-professionally-coded-website-policy)  
-[2. “Website Management” Policy](#2-website-management-policy)  
+[1. “Osows Website” Policy](#1-osows-website-policy)  
+[2. “Osows Website Management” Policy](#2-osows-website-management-policy)  
 [3. The Pages Included](#3-the-pages-included)  
 [4. Additional Pages](#4-additional-pages)  
 [5. Blog and Product Postings](#5-blog-and-product-postings)  
@@ -31,9 +31,9 @@ These terms, developed below, cover our ["**Professionally Coded Website Policy*
 
 ---
 
-#### 1. "Professionally Coded Website" Policy
+#### 1. "Osows Website" Policy
 *What this purchase includes:*
-- Anything listed under the "Professionally Coded Website" section in the ["**Plans Page**"](../plans/).
+- Anything listed under the "Osows Website" section in the ["**Plans Page**"](../plans/).
 
 - See [section 3](#3-the-pages-included) for the pages included in this purchase.
 - One non-premium domain name. Any domain that can be found for *$35* or less on GoDaddy.com or websites similar.
@@ -44,36 +44,36 @@ These terms, developed below, cover our ["**Professionally Coded Website Policy*
 ---
 
 *What this purchase does not include:*
-- Anything not listed under the "Professionally Coded Website" section in the ["**Plans Page**"](../plans).
+- Anything not listed under the "Osows Website" section in the ["**Plans Page**"](../plans).
 
-- Domain Name coverage beyond one calendar year from the date of the original purchase of the "Professionally Coded Website" Plan.
-- Web-Hosting coverage beyond one calendar year from the date of the original purchase of the "Professionally Coded Website" Plan.
-
----
-
-* *One Year Payment Route (OYPR):* The "Professionally Coded Website" Plan can be paid for through 12 installments of $150/month over one calendar year starting from the date of the initial purchase.
-
-* *Payment in Full:* The "Professionally Coded Website" Plan can be paid in full with a one time payment of $1500.
-
-* *Recurring Fees Post Payment:* Once the "Professionally Coded Website" Plan is completed and paid off (i.e. at the end of the OYPR or Paid in Full), the client is responsible for the yearly domain and web-hosting payments. *Osows will not be held responsible for the payment of domains or web-hosting after the first year of Plan purchase.* This may be offset by the purchase of the additional subscription [**"Website Management"**](#2-website-management).
+- Domain Name coverage beyond one calendar year from the date of the original purchase of the "Osows Website" Plan.
+- Web-Hosting coverage beyond one calendar year from the date of the original purchase of the "Osows Website" Plan.
 
 ---
 
-#### 2. "Website Management" Policy
+* *One Year Payment Route (OYPR):* The "Osows Website" Plan can be paid for through 12 installments of $150/month over one calendar year starting from the date of the initial purchase.
+
+* *Payment in Full:* The "Osows Website" Plan can be paid in full with a one time payment of $1500.
+
+* *Recurring Fees Post Payment:* Once the "Osows Website" Plan is completed and paid off (i.e. at the end of the OYPR or Paid in Full), the client is responsible for the yearly domain and web-hosting payments. *Osows will not be held responsible for the payment of domains or web-hosting after the first year of Plan purchase.* This may be offset by the purchase of the additional subscription [**"Osows Website Management"**](#2-osows-website-management).
+
+---
+
+#### 2. "Osows Website Management" Policy
 *What this purchase includes:*
-- Anything listed under the "Website Management" section in the ["**Plans Page**"](../plans/).
+- Anything listed under the "Osows Website Management" section in the ["**Plans Page**"](../plans/).
 
-- Domain Name coverage over the duration of the Website Management subscription.
-- Web-Hosting coverage over the duration of the Website Management subscription.
-- *Unlimited Troubleshooting and Error correcting regarding Osows Professionally Coded Websites and extensions to the website (i.e. extensions added by Osows and only those that pertain to Osows websites which have been purchased by the client). Examples of extensions could include: accessiBe, Stripe, or Google Analytics/Tag.
+- Domain Name coverage over the duration of the Osows Website Management subscription.
+- Web-Hosting coverage over the duration of the Osows Website Management subscription.
+- *Unlimited Troubleshooting and Error correcting regarding Osows Osows Websites and extensions to the website (i.e. extensions added by Osows and only those that pertain to Osows websites which have been purchased by the client). Examples of extensions could include: accessiBe, Stripe, or Google Analytics/Tag.
 
 ---
 
 *What this purchase does not include:*
-- Anything not listed under the "Website Management" section in the ["**Plans Page**"](../plans/).
+- Anything not listed under the "Osows Website Management" section in the ["**Plans Page**"](../plans/).
 
 - Troubleshooting and error correcting in websites or other technologies/tech services that are not from Osows.
-- Website Management for other websites or services other than Osows Professionally Coded Websites purchased by the client.
+- Osows Website Management for other websites or services other than Osows Osows Websites purchased by the client.
 
 ---
 
@@ -180,7 +180,7 @@ If you decide to cancel your subscription before the next billing cycle, you wil
   - Any negotiated refund will be based on the amount of days since your original purchase and the labor already spent.
   - In most cases, however, you will not receive any refund beyond the three day mark.
 
-**Professionally Coded Website Package:**
+**Osows Website Package:**
 You will receive a 100% refund if you cancel your plan within three days of the original purchase.
   - To do so you must contact us saying you wish to cancel and also provide your order number.
 
@@ -190,7 +190,7 @@ Beyond three days you might not receive any refund. We encourage you to contact 
 
 If you decide to cancel your subscription before the end of the annual billing cycle, you will receive our services until said billing cycle ends. For the following billing cycle, you will no longer be charged and the services previously purchased from Osows will cease. If you have questions regarding the status of the website purchased from us after your subscription ends, see our [Plan Policy](../planpolicy/) page for more details.
 
-If you have purchased the Professionally Coded Website on the monthly billing cycle, you are not allowed to cancel until the end of approximately one year of monthly billing cycles. This is because the cost of the website is the accumulation of one year's worth of monthly payments. If you decide to cancel, please contact us and we will tell you the date your subscription will end and when our services will cease (i.e. after one full year (12 months) of billing cycles have been completed).
+If you have purchased the Osows Website on the monthly billing cycle, you are not allowed to cancel until the end of approximately one year of monthly billing cycles. This is because the cost of the website is the accumulation of one year's worth of monthly payments. If you decide to cancel, please contact us and we will tell you the date your subscription will end and when our services will cease (i.e. after one full year (12 months) of billing cycles have been completed).
 
 ---
 

@@ -29,7 +29,7 @@ about:
     # about item loop
     - image : "images/about/about-1.svg"
       subtitle : "What We Do"
-      title : "Professionally Coded Websites For All"
+      title : "Osows Websites For All"
       content : "Through our simple and proven three-step process, we transmute visions into high-quality websites merging professional craftsmanship with creativity. Our mission is to create a more inclusive and innovative digital world for everyone."
       button:
         enable : true
@@ -62,7 +62,7 @@ feature:
     - name : "Step 2"
       link: "plans/"
       image : "images/feature/feature-2.svg"
-      content : "After Purchasing \"Professionally Coded Website\", we'll ask you some questions to understand your brand's personality, target audience, and unique selling points."
+      content : "After Purchasing \"Osows Website\", we'll ask you some questions to understand your brand's personality, target audience, and unique selling points."
 
     # feature item loop
     - name : "Step 3"

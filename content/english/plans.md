@@ -15,7 +15,7 @@ pricing:
   title : "Plans and Extras"
   pricing_table:
   # pricing table loop
-  - title : "Professionally Coded Website"
+  - title : "Osows Website"
     price : "$99"
     unit : "month for 1 Year"
     description : "or $999 Paid in Full"
@@ -28,12 +28,12 @@ pricing:
       - Marketing Functionality
       - 1 Year of Domain Coverage
       - Up To 6 Pages + Account Page
-      - 1 Year of Osows Website Management
+      - 1 Year of Osows Osows Website Management
       - Highest Possible SEO and Performance
       
 
   # pricing table loop
-  - title : "Website Management"
+  - title : "Osows Website Management"
     price : "$49"
     unit : "month"
     description : "Continued Support"

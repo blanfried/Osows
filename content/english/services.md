@@ -11,33 +11,34 @@ layout : "service"
 draft : false
 
 ############################### service ##############################
-############################### Professionally Coded Website ##############################
+############################### Osows Website ##############################
 service:
   enable : true
-  subtitle : "What's Included"
-  title : "Professionally Coded Website"
+  subtitle : "Getting Started"
+  title : "Osows Website"
+  subtitle2 : "The first step with us is purchasing Osows Website. Below is what is included with your website."
   service_item:
   - title : "Design"
     icon : "far fa-object-ungroup"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "The initial Design and customization"
 
   - title : "Copywriting"
     icon : "fas fa-users"
     icon_color : "yellow" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "We will write all the copy on your site for you!"
 
-  - title : "Web Hosting"
+  - title : "1 Year of Web Hosting"
     icon : "fas fa-desktop"
     icon_color : "purple" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
 
-  - title : "Marketing"
+  - title : "Marketing Functionality"
     icon : "fas fa-cloud"
     icon_color : "cyan" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
     
-  - title : "Domain Coverage"
+  - title : "1 Year of Domain Coverage"
     icon : "far fa-comments"
     icon_color : "red" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
@@ -47,7 +48,7 @@ service:
     icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
     
-  - title : "1 Year of Website Management"
+  - title : "1 Year of Osows Website Management"
     icon : "fas fa-chart-line"
     icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
@@ -59,11 +60,12 @@ service:
 
 
 ############################### service2 ##############################
-############################### Website Management ##############################
+############################### Osows Website Management ##############################
 service2:
   enable : true
-  subtitle : "What's Included"
-  title : "Website Management"
+  subtitle : "Next Step"
+  title : "Osows Website Management"
+  subtitle2 : "Test 2"
   service_item2:
   - title : "Web Hosting"
     icon : "far fa-object-ungroup"
