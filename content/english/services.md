@@ -102,12 +102,12 @@ service2:
   - title : "Marketing Monitoring"
     icon : "fas fa-chart-line"
     icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Analyzing your website's online traffic to fine-tune its marketing and tone for increased sales."
+    content : "Assessing your website's traffic to optimize marketing strategies and enhance outcomes."
     
   - title : "Unlimited Osows Support"
     icon : "fab fa-wpexplorer"
     icon_color : "blue" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "Unlimited support, ensuring your site and related third-party services function smoothly for your users."
 
 
 ############################### Features #####################################
