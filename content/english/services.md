@@ -22,7 +22,7 @@ service:
   - title : "Design"
     icon : "far fa-object-ungroup"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Tailoring your Design to showcase your brand's unique identity with a cohesive and memorable visual impact."
+    content : "A tailored Design to showcase your brand's unique identity with a cohesive and memorable visual impact."
 
   - title : "Copywriting"
     icon : "fas fa-users"
@@ -47,7 +47,7 @@ service:
   - title : "Osows Website Management"
     icon : "fas fa-chart-line"
     icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Continuous, hassle-free Osows Website support for an entire year. Scroll down to learn more."
+    content : "Continuous, hassle-free Osows Website Management for an entire year. Scroll down to learn more."
     
   - title : "SEO and Performance"
     icon : "fab fa-wpexplorer"
@@ -116,7 +116,7 @@ feature:
   enable : true
   subtitle : "Your Site's Full Potential"
   title : "Osows Extras"
-  subtitle2 : "Expand, comply, and excel effortlessly:"
+  subtitle2 : "Expand, comply, and excel with these additional features:"
   feature_item:
   - title : "Full Legal"
     icon : "fas fa-shield-alt"
