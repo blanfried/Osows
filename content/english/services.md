@@ -72,39 +72,39 @@ service2:
   - title : "Web Hosting"
     icon : "far fa-object-ungroup"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "Secure and reliable hosting for optimal website performance and 24/7 accessibility."
 
   - title : "SEO Monitoring"
     icon : "fas fa-users"
     icon_color : "yellow" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "Vigilant oversight of your site's search rankings, implementing adjustments to keep you visible and competitive."
 
   - title : "Domain Coverage"
     icon : "fas fa-desktop"
     icon_color : "purple" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "We cover the costs of your site's domain name to ensure your online identity remains securely yours."
 
   - title : "Branding Changes"
     icon : "fas fa-cloud"
     icon_color : "cyan" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "Update your brand’s look with up to three changes per month, keeping your image fresh and relevant."
     
   - title : "New Website Pictures"
     icon : "far fa-comments"
     icon_color : "red" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "Enhance your site with up to five fresh images monthly, keeping your visual content current and engaging."
     
   - title : "Website Customizations"
     icon : "fas fa-search-plus"
     icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "Up to three non-branding adjustments every month, from layout tweaks to functional enhancements."
     
   - title : "Marketing Monitoring"
     icon : "fas fa-chart-line"
     icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "Analyzing your website's online traffic to fine-tune its marketing and tone for increased sales."
     
-  - title : "Unlimited Support"
+  - title : "Unlimited Osows Support"
     icon : "fab fa-wpexplorer"
     icon_color : "blue" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
