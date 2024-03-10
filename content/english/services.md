@@ -57,7 +57,7 @@ service:
   - title : "The Pages Included"
     icon : "fas fa-search-plus"
     icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "| Home | About | Services | Contact | Choose 2 from: Blog, Products, Plans, Prices, Menu, FAQ, and Refund, Returns, or Cancellation Policy"
+    content : "Home | About | Services | Contact | Choose 1: Blog, Products, Plans, Prices, or Menu | Choose 1: FAQ, Refund, Returns, or Cancellation Policy"
 
 
 ############################### service2 ##############################

@@ -86,7 +86,7 @@ Up to 6 pages. The 6 pages constitute the following (numbers 5 & 6 constitute a 
 3. Services
 4. Contact
 5. One "Blog", “Products”, "Plans", "Prices", or "Menu" page
-6. FAQ, Refund Policy, Cancellation Policy, or Privacy Policy
+6. FAQ, Refund Policy, Return Policy, or Cancellation Policy
 
 *If needed, an "Account" page powered by Stripe is included at no additional cost. We can help you setup your Stripe account if needed.
 
