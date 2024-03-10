@@ -29,6 +29,10 @@ pricing:
       - 1 Year of Domain Coverage
       - Up To 6 Pages + Account Page
       - 1 Year of Osows Website Management
+      - Branding Support
+      - Business Support
+      - Highest Possible SEO and Performance
+      - Highest Possible SEO and Performance
       - Highest Possible SEO and Performance
       
 

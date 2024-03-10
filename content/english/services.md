@@ -22,42 +22,42 @@ service:
   - title : "Design"
     icon : "far fa-object-ungroup"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "The initial Design and customization"
+    content : "Tailoring your Design to showcase your brand's unique identity with a cohesive and memorable visual impact."
 
   - title : "Copywriting"
     icon : "fas fa-users"
     icon_color : "yellow" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "We will write all the copy on your site for you!"
+    content : "We will craft a compelling narrative on your website to engage your audience and drive action."
 
-  - title : "1 Year of Web Hosting"
+  - title : "Web Hosting"
     icon : "fas fa-desktop"
     icon_color : "purple" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "1 year of secure and reliable hosting for optimal website performance and 24/7 accessibility."
 
-  - title : "Marketing Functionality"
+  - title : "Marketing"
     icon : "fas fa-cloud"
     icon_color : "cyan" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "Integrating tools to amplify your reach and enhance engagement with your target audience."
     
-  - title : "1 Year of Domain Coverage"
+  - title : "Domain Name Coverage"
     icon : "far fa-comments"
     icon_color : "red" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
-    
-  - title : "Up To 6 Pages + Account Page"
-    icon : "fas fa-search-plus"
-    icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
-    
-  - title : "1 Year of Osows Website Management"
+    content : "Securing your unique web address to establish and protect your brand's online identity."
+        
+  - title : "Osows Website Management"
     icon : "fas fa-chart-line"
     icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "Continuous, hassle-free Osows Website support for an entire year. Scroll down to learn more."
     
   - title : "SEO and Performance"
     icon : "fab fa-wpexplorer"
     icon_color : "blue" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "Maximized website visibility and speed to ensure top search rankings and seamless user experiences."
+
+  - title : "The Pages Included"
+    icon : "fas fa-search-plus"
+    icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "Home | About | Services | Contact | Choose 2 from: Blog, Products, Plans, Prices, Menu, FAQ, and Refund, Returns, or Cancellation Policy"
 
 
 ############################### service2 ##############################
@@ -84,27 +84,27 @@ service2:
     icon_color : "purple" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
 
-  - title : "3 Branding Changes/Month"
+  - title : "Branding Changes"
     icon : "fas fa-cloud"
     icon_color : "cyan" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
     
-  - title : "Up to 5 New Website Pictures"
+  - title : "New Website Pictures"
     icon : "far fa-comments"
     icon_color : "red" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
     
-  - title : "3 Website Customizations/Month"
+  - title : "Website Customizations"
     icon : "fas fa-search-plus"
     icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
     
-  - title : "Google Tag & Analytics Monitoring"
+  - title : "Marketing Monitoring"
     icon : "fas fa-chart-line"
     icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
     
-  - title : "Unlimited Troubleshooting and Error Correcting"
+  - title : "Unlimited Support"
     icon : "fab fa-wpexplorer"
     icon_color : "blue" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do"
@@ -122,7 +122,7 @@ feature:
     icon : "fas fa-shield-alt"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
-    
+
   - title : "Account Page"
     icon : "fas fa-desktop"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
