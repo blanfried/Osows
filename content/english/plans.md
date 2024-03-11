@@ -24,15 +24,13 @@ pricing:
     services:
       - Design
       - Copywriting
+      - Branding Guidance
       - 1 Year of Web Hosting
       - Marketing Functionality
+      - Payment Handling Support
       - 1 Year of Domain Coverage
       - Up To 6 Pages + Account Page
       - 1 Year of Osows Website Management
-      - Branding Support
-      - Business Support
-      - Highest Possible SEO and Performance
-      - Highest Possible SEO and Performance
       - Highest Possible SEO and Performance
       
 
@@ -63,9 +61,9 @@ pricing:
     link : "../planpolicy/"
     services:
     - Full Legal
+    - Blog Posting
     - Account Page
     - Product Posting
     - Full Accessibility
     - Additional Pages
-    - Blog Posting
 ---
