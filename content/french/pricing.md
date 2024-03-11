@@ -16,7 +16,7 @@ pricing:
   pricing_table:
   # pricing table loop
   - title : "Basic"
-    price : "$49"
+    price : "$59"
     unit : "month"
     description : "Best for small individuals"
     link : "#"

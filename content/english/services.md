@@ -127,6 +127,11 @@ feature:
     icon : "fas fa-desktop"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+
+  - title : "Brand Creation"
+    icon : "fas fa-desktop"
+    icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
     
   - title : "Product Posting"
     icon : "fas fa-cogs"
@@ -148,25 +153,15 @@ feature:
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
 
-
-############################### Features2 #####################################
-feature2:
-  enable : true
-  subtitle : "Spice Things Up"
-  title : "Add-Ons and Additional Subscriptions"
-  feature_item:
-  - title : "Exclusive Design"
-    icon : "fas fa-desktop"
-    icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
-    
-  - title : "Easy Customize"
-    icon : "fas fa-cogs"
-    icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
-    
-  - title : "Extreme Security"
+  - title : "Extra Customizations"
     icon : "fas fa-shield-alt"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+    
+  - title : "Custom"
+    icon : "fas fa-shield-alt"
+    icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+
+
 ---

@@ -24,6 +24,7 @@ pricing:
     services:
       - Design
       - Copywriting
+      - Website Photos
       - Branding Guidance
       - 1 Year of Web Hosting
       - Marketing Functionality
@@ -36,7 +37,7 @@ pricing:
 
   # pricing table loop
   - title : "Osows Website Management"
-    price : "$49"
+    price : "$59"
     unit : "month"
     description : "Continued Support"
     name: "Subscribe"
@@ -54,16 +55,18 @@ pricing:
 
   # pricing table loop
   - title : "Extras"
-    price : "0-$49"
+    price : "0-$45"
     unit : "month"
-    description : "Add-Ons and Additional Subscriptions"
+    description : "Add-Ons"
     name: "See Details"
     link : "../planpolicy/"
     services:
     - Full Legal
     - Blog Posting
     - Account Page
+    - Brand Creation
     - Product Posting
     - Full Accessibility
     - Additional Pages
+    - Extra Customizations
 ---
