@@ -143,7 +143,7 @@ feature:
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
 
-  - title : "Blog Creation and Posting"
+  - title : "Blog Posting"
     icon : "fas fa-shield-alt"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."

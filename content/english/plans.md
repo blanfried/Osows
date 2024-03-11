@@ -67,5 +67,5 @@ pricing:
     - Product Posting
     - Full Accessibility
     - Additional Pages
-    - Blog Creation and Posting
+    - Blog Posting
 ---
