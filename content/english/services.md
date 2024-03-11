@@ -32,12 +32,12 @@ service:
   - title : "Website Photos"
     icon : "fas fa-users"
     icon_color : "yellow" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "."
+    content : "Every essential photo, perfectly aligned with your brand, will be included on your website for a cohesive look."
 
   - title : "Branding Guidance"
     icon : "fas fa-users"
     icon_color : "yellow" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "."
+    content : "Expert advice to sharpen your brand's identity for a consistent, impactful online presence."
 
   - title : "Web Hosting"
     icon : "fas fa-desktop"
@@ -52,7 +52,7 @@ service:
   - title : "Payment Handling Support"
     icon : "fas fa-cloud"
     icon_color : "cyan" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : ""
+    content : "Third-party payment integration assistance for secure, effortless transactions on your site."
     
   - title : "Domain Name Coverage"
     icon : "far fa-comments"
