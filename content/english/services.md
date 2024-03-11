@@ -29,6 +29,16 @@ service:
     icon_color : "yellow" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "We will craft a compelling narrative on your website to engage your audience and drive action."
 
+  - title : "Website Photos"
+    icon : "fas fa-users"
+    icon_color : "yellow" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "."
+
+  - title : "Branding Guidance"
+    icon : "fas fa-users"
+    icon_color : "yellow" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "."
+
   - title : "Web Hosting"
     icon : "fas fa-desktop"
     icon_color : "purple" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
@@ -38,6 +48,11 @@ service:
     icon : "fas fa-cloud"
     icon_color : "cyan" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Integrating tools to amplify your reach and enhance engagement with your target audience."
+
+  - title : "Payment Handling Support"
+    icon : "fas fa-cloud"
+    icon_color : "cyan" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : ""
     
   - title : "Domain Name Coverage"
     icon : "far fa-comments"
@@ -157,7 +172,7 @@ feature:
     icon : "fas fa-shield-alt"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
-    
+
   - title : "Custom"
     icon : "fas fa-shield-alt"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
