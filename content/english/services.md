@@ -166,7 +166,7 @@ feature:
   - title : "Blog Posting"
     icon : "fas fa-shield-alt"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+    content : "Add a Blog to your site, we'll post your content, ensuring your site remains engaging and informative."
 
   - title : "Extra Customizations"
     icon : "fas fa-shield-alt"
