@@ -161,7 +161,7 @@ feature:
   - title : "Full Accessibility"
     icon : "fas fa-shield-alt"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+    content : "Collaborating with accessiBe, we empower your site to welcome an additional 1.5 billion people globally, ensuring full access to individuals with disabilities."
 
   - title : "Blog Posting"
     icon : "fas fa-shield-alt"
