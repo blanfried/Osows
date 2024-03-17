@@ -18,7 +18,7 @@ description: "Last Updated: February 20, 2024"
 }(document, 'script', 'termly-jssdk'));</script> -->
 
 
-This privacy notice for Oso Group Inc., a Delaware corporation (doing business as Oso Web Services, "Osows") ("**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**Process**”) your information when you use our services (“**Services**”), such as when you:
+This privacy notice for Oso Group Incorporated, a Delaware corporation (doing business as Oso Web Services, "Osows") ("**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**Process**”) your information when you use our services (“**Services**”), such as when you:
 
 Visit our website at www.osows.com, or any website of ours that links to this privacy notice.
 
@@ -28,7 +28,7 @@ To better protect your privacy, we provide this notice (“Privacy Policy” or 
 
 We are committed to protecting your privacy and committed to developing technology that gives you the most powerful and secure experience.
 
-This Privacy Policy applies to all Oso Group Inc.-owned Websites. This Privacy Policy covers personally identifiable information, anonymous data collection and aggregate reporting. Personally identifiable information is any information that is associated with your name or personal identity.
+This Privacy Policy applies to all Oso Group Incorporated-owned Websites. This Privacy Policy covers personally identifiable information, anonymous data collection and aggregate reporting. Personally identifiable information is any information that is associated with your name or personal identity.
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered through our Website. Use of the Website is subject to our [Terms of Service](../termsofservice/) and to our personal information gathering and dissemination practices and policies as described below.
 
@@ -427,7 +427,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 If you have questions or comments about this notice, you may email us at contact@osows.com or contact us by post at:
 
-Oso Group Inc.
+Oso Group Incorporated
 
 PO Box 580
 

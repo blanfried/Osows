@@ -27,7 +27,7 @@ We aid in all website matters. We create websites, help with existing ones, boos
 
 You can contact us by phone at **(949) 439-8667**, email at [contact@osows.com](mailto:contact@osows.com), or by mail to 17436 North Mesa Drive, San Diego, CA 92061, United States.
 
-These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("**you**"), and Oso Group Inc., concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. **IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.**
+These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("**you**"), and Oso Group Incorporated, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. **IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.**
 
 We will provide you with prior notice of any scheduled changes to the Services you are using. The modified Legal Terms will become effective upon posting or notifying you by [contact@osows.com](mailto:contact@osows.com), as stated in the email message. By continuing to use the Services after the effective date of any changes, you agree to be bound by the modified terms.
 
@@ -295,7 +295,7 @@ These Legal Terms and any policies or operating rules posted by us on the Servic
 #### 24. CONTACT US
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
-Oso Group Inc.
+Oso Group Incorporated
 
 PO Box 580
 
