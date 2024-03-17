@@ -55,6 +55,7 @@
       "ul"
     ],
     "classes": [
+      "0$",
       "align-items-center",
       "align-self-center",
       "align-self-end",
@@ -154,6 +155,7 @@
       "fa-whatsapp",
       "fa-wpexplorer",
       "fa-youtube",
+      "fa-zero",
       "fab",
       "fade",
       "far",

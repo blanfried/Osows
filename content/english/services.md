@@ -136,27 +136,27 @@ feature:
   - title : "Full Legal"
     icon : "fas fa-shield-alt"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+    content : "Protect your business with comprehensive legal documents, including Terms and Privacy Policy. *Add more policies or disclaimers as needed."
 
   - title : "Account Page"
     icon : "fas fa-desktop"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+    content : "Get a fully integrated account page through Stripe, making user account management on your site straightforward and secure."
 
   - title : "Brand Creation"
     icon : "fas fa-desktop"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+    content : "Collaborate with our experts to build your brand from scratch, merging vision and values into a narrative and style that connects with your audience."
     
   - title : "Product Posting"
     icon : "fas fa-cogs"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+    content : "We'll manage your online storefront, uploading your new products to keep offerings updated and engaging for customers."
     
   - title : "Additional Pages"
     icon : "fas fa-shield-alt"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+    content : "Expand your website's scope with extra pages, such as showcasing your Mission, highlighting your Team, or presenting your Portfolio."
 
   - title : "Full Accessibility"
     icon : "fas fa-shield-alt"
