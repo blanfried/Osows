@@ -166,17 +166,17 @@ feature:
   - title : "Blog Posting"
     icon : "fas fa-shield-alt"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Add a Blog to your site, we'll post your content, ensuring your site remains engaging and informative."
+    content : "Boost your SEO with a blog. Supply the articles, and we'll manage the uploads, elevating your site's relevance and search visibility."
 
   - title : "Extra Customizations"
     icon : "fas fa-shield-alt"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+    content : "Request additional brand and website customizations, ideal for those looking to revamp their site or undertake a complete website makeover."
 
   - title : "Custom"
     icon : "fas fa-shield-alt"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+    content : "Have unique needs not covered here? [Contact Us](../contact/) for custom solutions. We’re committed to making your vision a reality."
 
 
 ---
