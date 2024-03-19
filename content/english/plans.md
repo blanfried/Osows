@@ -37,7 +37,7 @@ pricing:
 
   # pricing table loop
   - title : "Osows Website Management"
-    price : "$59"
+    price : "$49"
     unit : "month"
     description : "Continued Support"
     name: "Subscribe"
