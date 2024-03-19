@@ -18,7 +18,7 @@ about:
   video_link : "https://www.youtube.com/embed/nqye02H_H6I?autoplay=1"
   subtitle : "About Agico"
   title : "Eausmod tempor magna nostrud exercitation"
-  content : "Lorem ipsum dolor sit amet consectetur adipicing elit sed do usmod tempor incididunt.enim ad minim veniam, quis nostrud exer citation ulla mco laboris nisi ut aliquip commodo. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accu santium doloreque laudantum."
+  content : "Lorem ipsum dolor sit amet consectetur adipicing elit sed do usmod tempor incididunt.enim ad minim veniam, quis nostrud exer citation ulla mco laris nisi ut aliquip commodo. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accu santium doloreque laudantum."
   button:
     enable : true
     label : "Contact Us"
