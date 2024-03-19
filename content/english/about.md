@@ -13,8 +13,8 @@ draft : false
 ############################## about ###############################
 about:
   enable : true
-  video_bg_image : "images/about/about-3.jpg"
-  video_thumbnail : "images/about/about-4.jpg"
+  video_bg_image : "images/about/about-3.svg"
+  video_thumbnail : "images/about/about-4.svg"
   video_link : "https://www.youtube.com/embed/nqye02H_H6I?autoplay=1"
   subtitle : "About Agico"
   title : "Eausmod tempor magna nostrud exercitation"
