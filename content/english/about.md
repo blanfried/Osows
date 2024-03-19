@@ -15,10 +15,20 @@ about:
   enable : true
   video_bg_image : "images/about/about-3.svg"
   video_thumbnail : "images/about/about-4.svg"
-  video_link : "https://www.youtube.com/embed/nqye02H_H6I?autoplay=1"
-  subtitle : "About Agico"
-  title : "Eausmod tempor magna nostrud exercitation"
-  content : "Lorem ipsum dolor sit amet consectetur adipicing elit sed do usmod tempor incididunt.enim ad minim veniam, quis nostrud exer citation ulla mco laris nisi ut aliquip commodo. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accu santium doloreque laudantum."
+  # removed link for the time being
+  video_link : ""
+  subtitle : "How Osows Came To Be"
+  title : "A Philosopher Turned Entrepreneur"
+  content : "Odds are, if you found us, you probably found us through our founder, Baer Lanfried, somewhere on the internet. 
+  <br><br>
+  Upon finishing his Philosophy MA in Ethics, Baer wanted to find a way help the individual and mom-and-pop succeed against big business.
+  <br><br>
+  He decided to use his skills in philosophy and programming to create something beneficial that every entrepreneur needs, websites.
+  <br><br>
+  He recognized that larger businesses always have the upper hand in this regard due to their ability to spend lots of money toward a custom professionally coded website.
+  <br><br>
+  With this in mind, his goal was to create affordable high-end websites, tailored to specific brands, and to make the process as simple and personable as possible. This was how Osows was born...
+  "
   button:
     enable : true
     label : "Contact Us"
