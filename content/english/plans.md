@@ -41,7 +41,7 @@ pricing:
     price : "$0"
     slash : ""
     unit : ""
-    description : "Continued Support"
+    description : "Your Dedicated Programmer"
     name: "Learn More"
     link : "/services/"
     services:
