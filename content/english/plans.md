@@ -31,8 +31,8 @@ pricing:
       - Marketing Functionality
       - Payment Handling Support
       - 1 Year of Domain Coverage
-      - Up To 6 Pages + Account Page
-      - 1 Year of Osows Website Management
+      - Osows Website Management
+      - Up To 4 Pages + Account Page
       - Highest Possible SEO and Performance
       
 
