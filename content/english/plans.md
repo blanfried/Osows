@@ -17,9 +17,10 @@ pricing:
   # pricing table loop
   - title : "Osows Website"
     price : "$99"
-    unit : "month for 1 Year"
-    description : "or $999 Paid in Full"
-    name: "Purchase"
+    slash : "/ "
+    unit : "Month"
+    description : ""
+    name: "Subscribe"
     link : "#"
     services:
       - Design
@@ -38,10 +39,11 @@ pricing:
   # pricing table loop
   - title : "Osows Website Management"
     price : "$0"
+    slash : ""
     unit : ""
     description : "Continued Support"
-    name: "Subscribe"
-    link : "#"
+    name: "Learn More"
+    link : "/services/"
     services:
     - Web Hosting
     - SEO Monitoring
@@ -56,10 +58,11 @@ pricing:
   # pricing table loop
   - title : "Extras"
     price : "0-$45"
+    slash : "/ "
     unit : "month"
     description : "Add-Ons"
     name: "See Details"
-    link : "../planpolicy/"
+    link : "/services/"
     services:
     - Full Legal
     - Blog Posting

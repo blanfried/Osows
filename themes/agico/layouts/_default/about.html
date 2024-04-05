@@ -71,7 +71,7 @@
     <div class="row justify-content-around gy-4">
       {{ range .funfact_item }}
       <div class="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-0 text-center">
-        <p class="h2 fw-light text-dark"><span class="counter" data-counter-time="2500">{{ .count }}</span>+</p>
+        <p class="h2 fw-light text-dark"> <span>{{ .dsign }}</span><span class="counter" data-counter-time="2500">{{ .count }}</span><span>{{ .plus }}</span></p>
         <h6 class="text-dark fw-normal pb-4 mb-5">{{ .name }}</h6>
       </div>
       {{ end }}

@@ -39,20 +39,24 @@ funfacts:
   enable : true
   funfact_item:
   # funfact item loop
-  - name : "Downloads per day"
-    count : "8000"
+  - name : "Avg. Website Price"
+    dsign : "$"
+    count : "4500"
     
   # funfact item loop
-  - name : "Design awards"
-    count : "200"
+  - name : "Osows Price"
+    dsign : "$"
+    count : "100"
 
   # funfact item loop
-  - name : "Totally satisfied users"
-    count : "25000"
+  - name : "Avg. Website Turnaround"
+    plus : " Days"
+    count : "90"
 
   # funfact item loop
-  - name : "People behind this app"
-    count : "80"
+  - name : "Osows Turnaround"
+    plus : " Days"
+    count : "30"
 
 
 ########################### Service ################################
