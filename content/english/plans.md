@@ -24,13 +24,13 @@ pricing:
     link : "#"
     services:
       - Design
+      - Web Hosting
       - Copywriting
       - Website Photos
+      - Domain Coverage
       - Branding Guidance
-      - 1 Year of Web Hosting
       - Marketing Functionality
       - Payment Handling Support
-      - 1 Year of Domain Coverage
       - Osows Website Management
       - Up To 5 Pages + Account Page
       - Highest Possible SEO and Performance
@@ -45,9 +45,7 @@ pricing:
     name: "Learn More"
     link : "/services/"
     services:
-    - Web Hosting
     - SEO Monitoring
-    - Domain Coverage
     - 3 Branding Changes/Month
     - Up to 5 New Website Pictures
     - 3 Website Customizations/Month

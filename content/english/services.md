@@ -40,9 +40,9 @@ service:
     content : "Expert advice to sharpen your brand's identity for a consistent, impactful online presence."
 
   - title : "Web Hosting"
-    icon : "fas fa-desktop"
-    icon_color : "purple" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "1 year of secure and reliable hosting for optimal website performance and 24/7 accessibility."
+    icon : "far fa-object-ungroup"
+    icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "Secure and reliable hosting for optimal website performance and 24/7 accessibility."
 
   - title : "Marketing"
     icon : "fas fa-cloud"
@@ -54,10 +54,10 @@ service:
     icon_color : "cyan" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Third-party payment integration assistance for secure, effortless transactions on your site."
     
-  - title : "Domain Name Coverage"
-    icon : "far fa-comments"
-    icon_color : "red" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Securing your unique web address to establish and protect your brand's online identity."
+  - title : "Domain Coverage"
+    icon : "fas fa-desktop"
+    icon_color : "purple" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "We secure your site's domain name and cover the recurring costs to ensure your online identity remains uniquely yours."
         
   - title : "Osows Website Management"
     icon : "fas fa-chart-line"
@@ -79,25 +79,15 @@ service:
 ############################### Osows Website Management ##############################
 service2:
   enable : true
-  subtitle : "Experience Seamless Continuity"
+  subtitle : "Your Personal Programmer"
   title : "Osows Website Management"
   # subtitle2 : "Experience seamless continuity with:"
   subtitle2 : "Comprehensive support that lifts the burden, ensuring your site thrives."
   service_item2:
-  - title : "Web Hosting"
-    icon : "far fa-object-ungroup"
-    icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Secure and reliable hosting for optimal website performance and 24/7 accessibility."
-
   - title : "SEO Monitoring"
     icon : "fas fa-users"
     icon_color : "yellow" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Vigilant oversight of your site's search rankings, implementing adjustments to keep you visible and competitive."
-
-  - title : "Domain Coverage"
-    icon : "fas fa-desktop"
-    icon_color : "purple" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "We cover the costs of your site's domain name to ensure your online identity remains securely yours."
 
   - title : "Branding Changes"
     icon : "fas fa-cloud"
