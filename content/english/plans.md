@@ -32,7 +32,7 @@ pricing:
       - Payment Handling Support
       - 1 Year of Domain Coverage
       - Osows Website Management
-      - Up To 4 Pages + Account Page
+      - Up To 5 Pages + Account Page
       - Highest Possible SEO and Performance
       
 
