@@ -280,8 +280,8 @@
           <span
             class="badge badge-pill badge-light fw-medium mb-3 py-1 rounded-4 px-4 mb-4 d-inline-block text-primary">{{
             .title }}</span>
-          <div class="h1 text-dark">{{ .price }}<span class="paragraph text-lowercase"> / {{ .unit }}</span></div>
-          <h3 class="h5 mb-4 fw-normal text-color">{{ .description }}</h3>
+            <div class="h1 text-dark">{{ .price }}<span class="paragraph text-lowercase">{{ .slash }}{{ .unit }}</span></div>
+            <h3 class="h5 mb-4 fw-normal text-color">{{ .description }}</h3>
           <hr>
           <ul class="list-unstyled my-4">
             {{ range .services }}
