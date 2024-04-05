@@ -62,7 +62,7 @@ service:
   - title : "Osows Website Management"
     icon : "fas fa-chart-line"
     icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Continuous, hassle-free Osows Website Management for an entire year. Scroll down to learn more."
+    content : "Your own programmer dedicated to your site, free of additional charge. Scroll down to learn more."
     
   - title : "SEO and Performance"
     icon : "fab fa-wpexplorer"
@@ -82,7 +82,7 @@ service2:
   subtitle : "Experience Seamless Continuity"
   title : "Osows Website Management"
   # subtitle2 : "Experience seamless continuity with:"
-  subtitle2 : "Comprehensive support that lifts the burden, ensuring your site thrives effortlessly."
+  subtitle2 : "Comprehensive support that lifts the burden, ensuring your site thrives."
   service_item2:
   - title : "Web Hosting"
     icon : "far fa-object-ungroup"
