@@ -1,11 +1,11 @@
 ---
-title: "About Us"
+title: "About Osows"
 # watermark text
 watermark: "About"
 # page header background image
 page_header_image: "images/background/about.jpg"
 # meta description
-description : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
+description : ""
 
 layout : "about"
 draft : false
@@ -25,9 +25,9 @@ about:
   <br><br>
   He decided to use his skills in philosophy and programming to create something beneficial that every entrepreneur needs, websites.
   <br><br>
-  He recognized that larger businesses always have the upper hand in this regard due to their ability to spend lots of money toward a custom professionally coded website.
+  He recognized that larger businesses always have the upper hand in this regard due to their ability to spend immense capital toward a custom-branded professionally coded website.
   <br><br>
-  With this in mind, his goal was to create affordable high-end websites, tailored to specific brands, and to make the process as simple and personable as possible. This was how Osows was born...
+  With this in mind, his goal was to create affordable high-end websites, tailored to specific brands, whilst making the process as simple and personable as possible. Thus, Osows.
   "
   button:
     enable : true
