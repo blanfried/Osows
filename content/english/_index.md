@@ -40,7 +40,7 @@ about:
     - image : "images/about/about-2.svg"
       subtitle : "Who We Are"
       title : "Rooted in Ethics and a Desire to Help"
-      content : "After completing his graduate course in Ethics, our founder wanted an easy and cost-effective way to help the individual and mom-and-pop succeed against big business. This led him to Osows..."
+      content : "After completing his graduate course in Ethics, our founder, Baer Lanfried, wanted an easy and cost-effective way to help the individual and mom-and-pop succeed against big business. This led him to Osows..."
       button:
         enable : true
         label : "Read the Full Story"
