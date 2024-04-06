@@ -38,10 +38,10 @@ pricing:
 
   # pricing table loop
   - title : "Osows Website Management"
-    price : "$0"
+    price : ""
     slash : ""
     unit : ""
-    description : "Your Dedicated Programmer"
+    description : "Included With Osows Website"
     name: "Learn More"
     link : "/services/"
     services:
