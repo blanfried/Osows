@@ -12,7 +12,7 @@ draft: false
 
 pricing:
   subtitle : "The Goods"
-  title : "Plans and Extras"
+  title : "Osows Plan and Extras"
   pricing_table:
   # pricing table loop
   - title : "Osows Website"
