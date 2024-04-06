@@ -11,7 +11,7 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         <p class="subtitle" data-aos="fade-up">{{ .subtitle }}</p>
-        <h2 class="section-title" data-aos="fade-up" data-aos-delay="200">{{ .title }}</h2>
+        <a href="#{{ .link }}"><h2 id="{{ .link }}" class="section-title" data-aos="fade-up" data-aos-delay="200">{{ .title }}</h2></a>
         <p class="subtitle mb-5" data-aos="fade-up">{{ .subtitle2 }}</p>
       </div>
       {{ range $index, $element:= .feature_item }}

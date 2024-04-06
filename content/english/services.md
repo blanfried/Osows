@@ -16,6 +16,8 @@ service:
   enable : true
   subtitle : "Launch Your Online Presence"
   title : "Osows Website"
+  # link is for following because lines up better
+  link : "osows-website-management"
   # subtitle2 : ""
   subtitle2 : "Personalized, powerful, and packed with these essential features:"
   service_item:
@@ -81,6 +83,8 @@ service2:
   enable : true
   subtitle : "Your Personal Programmer"
   title : "Osows Website Management"
+  # link is for following because lines up better
+  link : "osows-extras"
   # subtitle2 : "Experience seamless continuity with:"
   subtitle2 : "Comprehensive support that lifts the burden, ensuring your site thrives."
   service_item2:
@@ -121,6 +125,7 @@ feature:
   enable : true
   subtitle : "Your Site's Full Potential"
   title : "Osows Extras"
+  # link : "osows-extras"
   subtitle2 : "Expand, comply, and excel with these additional features:"
   feature_item:
   - title : "Full Legal"

@@ -43,7 +43,7 @@ pricing:
     unit : ""
     description : "Included With Osows Website"
     name: "Learn More"
-    link : "/services/"
+    link : "/services/#osows-website-management"
     services:
     - SEO Monitoring
     - 3 Branding Changes/Month
@@ -60,7 +60,7 @@ pricing:
     unit : "month"
     description : "Add-Ons"
     name: "See Details"
-    link : "/services/"
+    link : "/services/#osows-extras"
     services:
     - Full Legal
     - Blog Posting
