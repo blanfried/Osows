@@ -51,13 +51,14 @@ feature:
   enable : true
   subtitle : "Our Secret Sauce"
   title : "Crafting Your Website: The Steps"
-  feature_item:
+  feature_item1:
     # feature item loop
     - name : "Step 1"
-      link: "designs/"
+      # link : "https://assets.calendly.com/assets/external/widget.css"
       image : "images/feature/feature-1.svg"
-      content : "Explore a variety of curated designs and select the one that matches your brand's essence."
+      content : "Schedule a free consultation. We'll throw out a few website examples and find the best way forward with your new site!"
       
+  feature_item:
     # feature item loop
     - name : "Step 2"
       link: "plans/"

@@ -109,6 +109,23 @@
         <p class="subtitle" data-aos="fade-up">{{ .subtitle }}</p>
         <h2 class="section-title" data-aos="fade-up" data-aos-delay="100">{{ .title }}</h2>
       </div>
+      {{ range $index, $element:= .feature_item1 }}
+      {{ $delay := mul $index 200 }}
+          <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="{{ $delay }}">
+              <!-- Calendly link widget begin -->
+              <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+              <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+              <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/contact-ewy5/osows-consultation'});return false;">
+              <!-- Calendly link widget end -->
+            <div class="hover-bg-primary text-center position-relative px-4 py-5 rounded-lg shadow">
+              {{ partial "image.html" (dict "Src" .image "Alt" "feature image" "Class" "mb-3" ) }} 
+              <div class="mb-4 mt-4 fs-1 fw-bold">{{ .name | markdownify }}</div>
+              <div class="mb-4 mt-4">{{ .content | markdownify }}</div>
+            </div>
+          </a>
+          </div>
+      {{ end }}
+
       {{ range $index, $element:= .feature_item }}
       {{ $delay := mul $index 200 }}
           <div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="{{ $delay }}">
