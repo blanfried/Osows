@@ -91,3 +91,23 @@ footer {
     }
   }
 }
+
+.calendly-badge-content {
+  // color: $color-secondary !important;
+  transition: all ease 0.3s;
+  // border: .5px solid #242F3E !important;
+
+  &:hover {
+    // color: #242F3E !important;
+    background: rgba(0, 48, 204, 0.8) !important;
+    box-shadow: none !important;
+
+    i {
+      color: $white !important;
+    }
+
+    &:after {
+      left: 0 !important;
+    }
+  }
+}
