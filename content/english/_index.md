@@ -54,6 +54,7 @@ feature:
   feature_item1:
     # feature item loop
     - name : "Step 1"
+      title : "Consultation"
       # link : "https://assets.calendly.com/assets/external/widget.css"
       image : "images/feature/feature-1.svg"
       content : "Schedule a free consultation. We'll throw out a few website examples and find the best way forward with your new site!"
@@ -61,12 +62,14 @@ feature:
   feature_item:
     # feature item loop
     - name : "Step 2"
+      title : "Questionnaire"
       link: "plans/"
       image : "images/feature/feature-2.svg"
       content : "After Purchasing \"Osows Website\", we'll ask you some questions to understand your brand's personality, target audience, and unique selling points."
 
     # feature item loop
     - name : "Step 3"
+      title : "Receive"
       link: "services/"
       image : "images/feature/feature-3.svg"
       content : "We use this information to tailor your website according to your brand identity and objectives, transforming your vision into a website that resonates with your target audience. To learn more about what we do, click this box!"
