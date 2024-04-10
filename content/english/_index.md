@@ -78,7 +78,7 @@ feature:
 ############################ video ###############################
 promo_video:
   enable : true
-  video_thumbnail : "images/check-video.svg"
+  video_thumbnail : ""
   #need to embed a youtube video for it to work
   video_link : ""
   subtitle : "Cheeky Vid"
