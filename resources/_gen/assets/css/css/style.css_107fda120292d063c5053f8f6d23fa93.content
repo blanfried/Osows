@@ -23652,7 +23652,6 @@ footer > div:first-child {
 .calendly-badge-content {
   transition: all ease 0.3s; }
   .calendly-badge-content:hover {
-    background: rgba(0, 48, 204, 0.8) !important;
     box-shadow: none !important; }
     .calendly-badge-content:hover i {
       color: #fff !important; }
