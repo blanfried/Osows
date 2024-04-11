@@ -57,7 +57,10 @@ feature:
       title : "Consultation"
       # link : "https://assets.calendly.com/assets/external/widget.css"
       image : "images/feature/feature-1.svg"
-      content : "Schedule a free consultation. We'll throw out a few website examples and find the best way forward with your new site!"
+      content : "Schedule a free consultation. We'll throw out a few website examples and find the best way forward with your new site!
+      <br>
+      <br>  
+      Click this card to schedule a chat!"
       
   feature_item:
     # feature item loop
@@ -65,14 +68,23 @@ feature:
       title : "Questionnaire"
       link: "plans/"
       image : "images/feature/feature-2.svg"
-      content : "After Purchasing \"Osows Website\", we'll ask you some questions to understand your brand's personality, target audience, and unique selling points."
+      content : "After chatting with us, we'll send you a link to our Questionnaire. It's brief and will give us all the info necessary to create and brand your website perfectly.
+      <br>
+      <br>  
+      Click this card to take our Questionnaire (coming soon)!"
 
     # feature item loop
     - name : "Step 3"
-      title : "Receive"
-      link: "services/"
+      title : "Collaboration"
+      link: "designs/"
       image : "images/feature/feature-3.svg"
-      content : "We use this information to tailor your website according to your brand identity and objectives, transforming your vision into a website that resonates with your target audience. To learn more about what we do, click this box!"
+      content : "Once everything is in hand, we develop your site in less than 30 days. Once finished, we present you the finished product ready for launch. 
+      <br>
+      <br>
+      We collaborate with you from then on, making any changes or updates you desire. 
+      <br>
+      <br>  
+      Click this card to see our portfolio!"
 
 
 ############################ video ###############################
