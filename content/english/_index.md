@@ -57,7 +57,7 @@ feature:
       title : "Consultation"
       # link : "https://assets.calendly.com/assets/external/widget.css"
       image : "images/feature/feature-1.svg"
-      content : "Schedule a free consultation. We'll get to know your brand and show you a few website designs to see what sticks.
+      content : "Schedule a consultation. We learn more about your brand and show you a few website designs to see what sticks.
       <br>
       <br>  
       Click this card to schedule a chat!"
@@ -78,10 +78,10 @@ feature:
       title : "Collaboration"
       link: "designs/"
       image : "images/feature/feature-3.svg"
-      content : "Once everything is in hand, we develop your site in less than 30 days. Once finished, we present you the finished product ready for launch. 
+      content : "Once everything is in hand, we develop your site in less than 30 days. Once finished, we present you with the finished product ready for launch. 
       <br>
       <br>
-      We collaborate with you from then on, making any changes or updates you desire. 
+      From then on we collaborate with you, making any changes or updates you desire. 
       <br>
       <br>  
       Click this card to see our portfolio!"
