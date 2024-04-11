@@ -57,7 +57,7 @@ feature:
       title : "Consultation"
       # link : "https://assets.calendly.com/assets/external/widget.css"
       image : "images/feature/feature-1.svg"
-      content : "Schedule a free consultation. We'll throw out a few website examples and find the best way forward with your new site!
+      content : "Schedule a free consultation. We'll get to know your brand and show you a few website designs to see what sticks.
       <br>
       <br>  
       Click this card to schedule a chat!"
@@ -68,7 +68,7 @@ feature:
       title : "Questionnaire"
       link: "plans/"
       image : "images/feature/feature-2.svg"
-      content : "After chatting with us, we'll send you a link to our Questionnaire. It's brief and will give us all the info necessary to create and brand your website perfectly.
+      content : "After chatting with us, we send you a link to our Questionnaire. It's brief and will give us all the info necessary to create and brand your website perfectly.
       <br>
       <br>  
       Click this card to take our Questionnaire (coming soon)!"
