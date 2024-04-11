@@ -78,7 +78,7 @@ feature:
       title : "Collaboration"
       link: "designs/"
       image : "images/feature/feature-3.svg"
-      content : "Once everything is in hand, we develop your site in less than 30 days. We then launch your site to its specific URL once we get your approval.
+      content : "Once everything is in hand, we develop your site in less than 30 days. We then launch to its specific URL upon your approval.
       <br>
       <br>
       From then on we collaborate with you, making any changes or updates you desire. 
