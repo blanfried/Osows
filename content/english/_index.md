@@ -84,7 +84,7 @@ feature:
       From then on we collaborate with you, making any changes or updates you desire. 
       <br>
       <br>  
-      Click this card to see all the services that we provide!"
+      Click this card to see all our services!"
 
 
 ############################ video ###############################
