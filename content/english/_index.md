@@ -76,7 +76,7 @@ feature:
     # feature item loop
     - name : "Step 3"
       title : "Collaboration"
-      link: "designs/"
+      link: "services/"
       image : "images/feature/feature-3.svg"
       content : "Once everything is in hand, we develop your site in less than 30 days. We then launch to its specific URL upon your approval.
       <br>
@@ -84,7 +84,7 @@ feature:
       From then on we collaborate with you, making any changes or updates you desire. 
       <br>
       <br>  
-      Click this card to see our portfolio!"
+      Click this card to see all the services that we provide!"
 
 
 ############################ video ###############################
