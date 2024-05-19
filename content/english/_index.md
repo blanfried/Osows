@@ -49,7 +49,7 @@ about:
 ################################ Features ###############################
 feature:
   enable : true
-  subtitle : "Our Secret Sauc"
+  subtitle : "Our Secret Sauce"
   title : "Crafting Your Website: The Steps"
   feature_item1:
     # feature item loop
