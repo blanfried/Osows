@@ -49,7 +49,7 @@ about:
 ################################ Features ###############################
 feature:
   enable : true
-  subtitle : "Our Secret Sauce"
+  subtitle : "The Craft"
   title : "Crafting Your Website: The Steps"
   feature_item1:
     # feature item loop
@@ -66,12 +66,12 @@ feature:
     # feature item loop
     - name : "Step 2"
       title : "Questionnaire"
-      link: "plans/"
+      link: "designs/"
       image : "images/feature/feature-2.svg"
       content : "After chatting with us, we send you a link to our Questionnaire. It's brief and will give us all the info necessary to create and brand your website perfectly.
       <br>
       <br>  
-      Click this card to take our Questionnaire (coming soon)!"
+      Click this card to see some recent branded websites and our new designs!"
 
     # feature item loop
     - name : "Step 3"
