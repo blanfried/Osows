@@ -49,7 +49,7 @@ about:
 ################################ Features ###############################
 feature:
   enable : true
-  subtitle : "The Craft"
+  subtitle : "Our Sacred Path"
   title : "Crafting Your Website: The Steps"
   feature_item1:
     # feature item loop

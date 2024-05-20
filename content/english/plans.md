@@ -37,6 +37,25 @@ pricing:
       
 
   # pricing table loop
+  - title : "Add-Ons"
+    price : "0-$45"
+    slash : "/ "
+    unit : "month"
+    description : ""
+    name: "See Details"
+    link : "/services/#osows-extras"
+    services:
+    - Full Legal
+    - Blog Posting
+    - Account Page
+    - Brand Creation
+    - Product Posting
+    - Full Accessibility
+    - Additional Pages
+    - Extra Customizations
+
+
+  # pricing table loop
   - title : "Osows Website Management"
     price : ""
     slash : ""
@@ -52,22 +71,4 @@ pricing:
     - Google Tag & Analytics Monitoring
     - Unlimited Troubleshooting and Error Correcting
 
-
-  # pricing table loop
-  - title : "Extras"
-    price : "0-$45"
-    slash : "/ "
-    unit : "month"
-    description : "Add-Ons"
-    name: "See Details"
-    link : "/services/#osows-extras"
-    services:
-    - Full Legal
-    - Blog Posting
-    - Account Page
-    - Brand Creation
-    - Product Posting
-    - Full Accessibility
-    - Additional Pages
-    - Extra Customizations
 ---
