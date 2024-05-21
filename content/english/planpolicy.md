@@ -214,8 +214,8 @@ We have opted to host these sites as previews ourselves for cohesion purposes on
 ---
 
 #### 11. Money Back Guarantee
-If your new Osows Website is not to your liking, you may receive full money back within the first three months of your initial purchase. 
+If your new Osows Website is not to your liking, you may receive a full refund if requested within the first three months of your initial purchase. 
 
-This is to ensure your comfort is guaranteed and that we do the best job possible.
+This is to ensure your comfort and that we do the best job possible.
 
-If a refund is requested, your website will taken offline and saved for 60 days.
+If a refund is requested, your website will taken offline immediately and saved for 60 days.
