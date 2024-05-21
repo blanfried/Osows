@@ -27,7 +27,8 @@ These terms, developed below, cover our ["**Osows Website Policy**"](#1-osows-we
 [7. Login and Authentication Pages](#7-login-and-authentication-pages)  
 [8. Refunds and Cancellation](#8-refunds-and-cancellation)  
 [9. Accessibility Compliance](#9-accessibility-compliance)  
-[10. Designs](#10-designs)
+[10. Designs](#10-designs)  
+[11. Money Back Guarantee](#11-money-back-guarantee)
 
 ---
 
@@ -209,3 +210,12 @@ The credit for our Designs properly goes to:
 - Themefisher.com
 
 We have opted to host these sites as previews ourselves for cohesion purposes on Osows.com. Our Web Developers are skilled in the conversion of these designs into new customized websites for our clients. We have all rights necessary to conduct said conversion for our clients and use these designs as we see fit.
+
+---
+
+#### 11. Money Back Guarantee
+If your new Osows Website is not to your liking, you may receive full money back within the first three months of your initial purchase. 
+
+This is to ensure your comfort is guaranteed and that we do the best job possible.
+
+If a refund is requested, your website will taken offline and saved for 60 days.
