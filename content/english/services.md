@@ -1,7 +1,7 @@
 ---
-title: "Our Services"
+title: "What We Do"
 # watermark text
-watermark: "Services"
+watermark: ""
 # page header background image
 page_header_image: "images/background/about.jpg"
 # meta description
