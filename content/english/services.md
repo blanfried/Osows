@@ -77,47 +77,6 @@ service:
     content : "Home | About | Services | Contact | Choose 1: Plans, Prices, Pricing, or Menu"
 
 
-############################### service2 ##############################
-############################### Osows Website Management ##############################
-service2:
-  enable : true
-  subtitle : "Your Personal Programmer"
-  title : "Osows Website Management"
-  # link is for following because lines up better
-  link : "osows-extras"
-  # subtitle2 : "Experience seamless continuity with:"
-  subtitle2 : "Comprehensive support that lifts the burden, ensuring your site thrives."
-  service_item2:
-  - title : "SEO Monitoring"
-    icon : "fas fa-users"
-    icon_color : "yellow" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Vigilant oversight of your site's search rankings, implementing adjustments to keep you visible and competitive."
-
-  - title : "Branding Changes"
-    icon : "fas fa-cloud"
-    icon_color : "cyan" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Update your brand’s look with up to three changes per month, keeping your image fresh and relevant."
-    
-  - title : "New Website Pictures"
-    icon : "far fa-comments"
-    icon_color : "red" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Enhance your site with up to five fresh images monthly, keeping your visual content current and engaging."
-    
-  - title : "Website Customizations"
-    icon : "fas fa-search-plus"
-    icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Up to three non-branding adjustments every month, from layout tweaks to functional enhancements."
-    
-  - title : "Marketing Monitoring"
-    icon : "fas fa-chart-line"
-    icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Assessing your website's traffic to optimize marketing strategies and enhance outcomes."
-    
-  - title : "Unlimited Osows Support"
-    icon : "fab fa-wpexplorer"
-    icon_color : "blue" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Unlimited support, ensuring your site and related third-party services function smoothly for your users."
-
 
 ############################### Features #####################################
 ############################### Add-Ons #####################################
@@ -172,6 +131,48 @@ feature:
     icon : "fas fa-shield-alt"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Have unique needs not covered here? [Contact Us](../contact/) for custom solutions. We’re committed to making your vision a reality."
+
+
+############################### service2 ##############################
+############################### Osows Website Management ##############################
+service2:
+  enable : true
+  subtitle : "Your Personal Programmer"
+  title : "Osows Website Management"
+  # link is for following because lines up better
+  link : "osows-extras"
+  # subtitle2 : "Experience seamless continuity with:"
+  subtitle2 : "Comprehensive support that lifts the burden, ensuring your site thrives."
+  service_item2:
+  - title : "SEO Monitoring"
+    icon : "fas fa-users"
+    icon_color : "yellow" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "Vigilant oversight of your site's search rankings, implementing adjustments to keep you visible and competitive."
+
+  - title : "Branding Changes"
+    icon : "fas fa-cloud"
+    icon_color : "cyan" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "Update your brand’s look with up to three changes per month, keeping your image fresh and relevant."
+    
+  - title : "Pictures"
+    icon : "far fa-comments"
+    icon_color : "red" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "Enhance your site with up to five fresh images monthly, keeping your visual content current and engaging."
+    
+  - title : "Customizations"
+    icon : "fas fa-search-plus"
+    icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "Up to three non-branding adjustments every month, from layout tweaks to functional enhancements."
+    
+  - title : "Marketing Monitoring"
+    icon : "fas fa-chart-line"
+    icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "Assessing your website's traffic to optimize marketing strategies and enhance outcomes."
+    
+  - title : "Unlimited Osows Support"
+    icon : "fab fa-wpexplorer"
+    icon_color : "blue" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "Unlimited support, ensuring your site and related third-party services function smoothly for your users."
 
 
 ---

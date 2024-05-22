@@ -1,7 +1,6 @@
 {{ define "main" }}
 
 {{ partial "components/services.html" . }}
-{{ partial "components/services2.html" . }}
 
 {{"<!-- features -->"| safeHTML}}
 {{ if .Params.feature.enable }}
@@ -33,6 +32,8 @@
   </div>
 </section>
 {{ end }}
+{{ partial "components/services2.html" . }}
+
 {{ end }}
 {{"<!-- /features -->"| safeHTML}}
 
