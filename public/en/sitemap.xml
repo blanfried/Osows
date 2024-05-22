@@ -189,8 +189,6 @@
   </url><url>
     <loc>https://www.osows.com/plans/</loc>
   </url><url>
-    <loc>https://www.osows.com/services/</loc>
-  </url><url>
     <loc>https://www.osows.com/team/</loc>
     <xhtml:link
                 rel="alternate"
@@ -218,5 +216,7 @@
                 hreflang="en-us"
                 href="https://www.osows.com/tags/"
                 />
+  </url><url>
+    <loc>https://www.osows.com/services/</loc>
   </url>
 </urlset>
