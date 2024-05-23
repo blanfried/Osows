@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "article",
+      "base",
       "body",
       "br",
       "button",
@@ -364,7 +365,6 @@
     "ids": [
       "",
       "1-genyst-website-policy",
-      "1-osows-website-policy",
       "1-our-services",
       "1-what-information-do-we-collect",
       "10-designs",
@@ -386,7 +386,6 @@
       "2-genyst-website-management-policy",
       "2-how-do-we-process-your-information",
       "2-intellectual-property-rights",
-      "2-osows-website-management-policy",
       "20-user-data",
       "21-electronic-communications-transactions-and-signatures",
       "22-california-users-and-residents",
@@ -436,8 +435,6 @@
       "mobileButton",
       "myIframe",
       "navigation",
-      "osows-extras",
-      "osows-website-management",
       "paint0_linear_108_821",
       "paint10_linear_108_821",
       "paint11_linear_108_821",

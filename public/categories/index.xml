@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Osows</title>
-    <link>https://www.osows.com/categories/</link>
-    <description>Recent content in Categories on Osows</description>
+    <title>Categories on Genyst</title>
+    <link>https://www.genyst.com/categories/</link>
+    <description>Recent content in Categories on Genyst</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.osows.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.genyst.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agency</title>
-      <link>https://www.osows.com/categories/agency/</link>
+      <link>https://www.genyst.com/categories/agency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.osows.com/categories/agency/</guid>
+      <guid>https://www.genyst.com/categories/agency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brochure</title>
-      <link>https://www.osows.com/categories/brochure/</link>
+      <link>https://www.genyst.com/categories/brochure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.osows.com/categories/brochure/</guid>
+      <guid>https://www.genyst.com/categories/brochure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E-Commerce</title>
-      <link>https://www.osows.com/categories/e-commerce/</link>
+      <link>https://www.genyst.com/categories/e-commerce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.osows.com/categories/e-commerce/</guid>
+      <guid>https://www.genyst.com/categories/e-commerce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>https://www.osows.com/categories/personal/</link>
+      <link>https://www.genyst.com/categories/personal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.osows.com/categories/personal/</guid>
+      <guid>https://www.genyst.com/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SaaS</title>
-      <link>https://www.osows.com/categories/saas/</link>
+      <link>https://www.genyst.com/categories/saas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.osows.com/categories/saas/</guid>
+      <guid>https://www.genyst.com/categories/saas/</guid>
       <description></description>
     </item>
     
