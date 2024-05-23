@@ -20,33 +20,33 @@
   
   "icons": [
     {
-      "src": "/images/favicon_huc2688dc815aa71a27226d4fe3fd627c1_38761_48x48_resize_lanczos_3.png",
+      "src": "/images/favicon_hubb1a881b77172ca56d5003562f8c9d66_50993_48x48_resize_lanczos_3.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_huc2688dc815aa71a27226d4fe3fd627c1_38761_72x72_resize_lanczos_3.png",
+      "src": "/images/favicon_hubb1a881b77172ca56d5003562f8c9d66_50993_72x72_resize_lanczos_3.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_huc2688dc815aa71a27226d4fe3fd627c1_38761_96x96_resize_lanczos_3.png",
+      "src": "/images/favicon_hubb1a881b77172ca56d5003562f8c9d66_50993_96x96_resize_lanczos_3.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_huc2688dc815aa71a27226d4fe3fd627c1_38761_144x144_resize_lanczos_3.png",
+      "src": "/images/favicon_hubb1a881b77172ca56d5003562f8c9d66_50993_144x144_resize_lanczos_3.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_huc2688dc815aa71a27226d4fe3fd627c1_38761_192x192_resize_lanczos_3.png",
+      "src": "/images/favicon_hubb1a881b77172ca56d5003562f8c9d66_50993_192x192_resize_lanczos_3.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/images/favicon_huc2688dc815aa71a27226d4fe3fd627c1_38761_512x512_resize_lanczos_3.png",
+      "src": "/images/favicon_hubb1a881b77172ca56d5003562f8c9d66_50993_512x512_resize_lanczos_3.png",
       "sizes": "512x512",
       "type": "image/png"
     }
