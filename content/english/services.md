@@ -11,13 +11,13 @@ layout : "service"
 draft : false
 
 ############################### service ##############################
-############################### Osows Website ##############################
+############################### Genyst Website ##############################
 service:
   enable : true
   subtitle : "Launch Your Online Presence"
-  title : "Osows Website"
+  title : "Genyst Website"
   # link is for following because lines up better
-  link : "osows-website-management"
+  link : "genyst-website-management"
   # subtitle2 : ""
   subtitle2 : "Personalized, powerful, and packed with these essential features:"
   service_item:
@@ -61,7 +61,7 @@ service:
     icon_color : "purple" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "We secure your site's domain name and cover the recurring costs to ensure your online identity remains uniquely yours."
         
-  - title : "Osows Website Management"
+  - title : "Genyst Website Management"
     icon : "fas fa-chart-line"
     icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Your own programmer dedicated to your site, free of additional charge. Scroll down to learn more."
@@ -83,8 +83,8 @@ service:
 feature:
   enable : true
   subtitle : "Your Site's Full Potential"
-  title : "Osows Extras"
-  # link : "osows-extras"
+  title : "Genyst Extras"
+  # link : "genyst-extras"
   subtitle2 : "Expand, comply, and excel with these additional features:"
   feature_item:
   - title : "Full Legal"
@@ -134,13 +134,13 @@ feature:
 
 
 ############################### service2 ##############################
-############################### Osows Website Management ##############################
+############################### Genyst Website Management ##############################
 service2:
   enable : true
   subtitle : "Your Personal Programmer"
-  title : "Osows Website Management"
+  title : "Genyst Website Management"
   # link is for following because lines up better
-  link : "osows-extras"
+  link : "genyst-extras"
   # subtitle2 : "Experience seamless continuity with:"
   subtitle2 : "Comprehensive support that lifts the burden, ensuring your site thrives."
   service_item2:
@@ -169,7 +169,7 @@ service2:
     icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Assessing your website's traffic to optimize marketing strategies and enhance outcomes."
     
-  - title : "Unlimited Osows Support"
+  - title : "Unlimited Genyst Support"
     icon : "fab fa-wpexplorer"
     icon_color : "blue" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
     content : "Unlimited support, ensuring your site and related third-party services function smoothly for your users."

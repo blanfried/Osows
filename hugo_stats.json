@@ -3,7 +3,6 @@
     "tags": [
       "a",
       "article",
-      "base",
       "body",
       "br",
       "button",
@@ -364,6 +363,7 @@
     ],
     "ids": [
       "",
+      "1-genyst-website-policy",
       "1-osows-website-policy",
       "1-our-services",
       "1-what-information-do-we-collect",
@@ -383,6 +383,7 @@
       "17-disclaimer",
       "18-limitations-of-liability",
       "19-indemnification",
+      "2-genyst-website-management-policy",
       "2-how-do-we-process-your-information",
       "2-intellectual-property-rights",
       "2-osows-website-management-policy",
@@ -424,6 +425,8 @@
       "faq-related-to-ai-signals",
       "faq-related-to-player-ranking-and-game-settlment",
       "faq-related-to-prize-pots-and-referral-program",
+      "genyst-extras",
+      "genyst-website-management",
       "i-like-the-real-time-ai-signals-a-lot-can-i-also-get-them-outside-of-tournament-period",
       "is-it-a-ponzi-scheme",
       "is-it-skill-based-gaming",

@@ -12,10 +12,10 @@ draft: false
 
 pricing:
   subtitle : "The Goods"
-  title : "Osows Plan and Extras"
+  title : "Genyst Plan and Extras"
   pricing_table:
   # pricing table loop
-  - title : "Osows Website"
+  - title : "Genyst Website"
     price : "$99"
     slash : "/ "
     unit : "Month"
@@ -31,7 +31,7 @@ pricing:
       - Branding Guidance
       - Marketing Functionality
       - Payment Handling Support
-      - Osows Website Management
+      - Genyst Website Management
       - Up To 5 Pages + Account Page
       - Highest Possible SEO and Performance
       
@@ -56,11 +56,11 @@ pricing:
 
 
   # pricing table loop
-  - title : "Osows Website Management"
+  - title : "Genyst Website Management"
     price : ""
     slash : ""
     unit : ""
-    description : "Included With Osows Website"
+    description : "Included With Genyst Website"
     name: "Learn More"
     link : "/services/#osows-website-management"
     services:

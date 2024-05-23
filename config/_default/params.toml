@@ -13,7 +13,7 @@ logo_width = "148px"
 logo_webp = true
 
 # logo text will only show when logo is missing.
-logo_text = "Osows"
+logo_text = "Genyst"
 
 # purgeCSS
 purge_css = true
@@ -83,7 +83,7 @@ crisp_website_id = "9aa449e1-9999-422a-938f-8567982eec6d" # replace this code wi
 [metadata]
 keywords = ["Agico", "Hugo", "Themefisher", "GetHugoThemes"]
 description = "This is meta description"
-author = "Osows"
+author = "Genyst"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/

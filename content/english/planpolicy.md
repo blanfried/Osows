@@ -1,5 +1,5 @@
 ---
-title: "Osows Plan Policy"
+title: "Genyst Plan Policy"
 date: 2020-06-05T15:04:04+02:00
 draft: false
 #watermark: "Coinic"
@@ -9,17 +9,17 @@ description: "Last Updated: February 20, 2024"
 
 
 ## What This Document Covers
-Upon payment for an Osows Plan, and thereby agreeing with our Terms of Service, you also agree to the terms laid out in this Plan Policy.
+Upon payment for an Genyst Plan, and thereby agreeing with our Terms of Service, you also agree to the terms laid out in this Plan Policy.
 
-These terms, developed below, cover our ["**Osows Website Policy**"](#1-osows-website-policy), ["**Osows Website Management Policy**"](#2-osows-website-management-policy), ["**Refunds and Cancellation Policy**"](#8-refunds-and-cancellation), as well as any additional purchases ("add-ons" or "additional subscriptions") that may be added onto the original "Plan" purchase and the terms which go along with each additional purchase. By "Plan" it is meant the original Osows [**"Osows Website"**](#1-osows-website) Plan, which is the base of all other additional subscriptions or add-ons. In order to purchase additional subscriptions, like [**"Osows Website Management"**](#2-osows-website-management) or add-ons, one must have either paid for the Plan "in Full" (see section 1) or currently be on or finished with the "One Year Payment Route" (OYPR) regarding the Plan (see section 1). An "add-on" is an addition to the Plan and constitutes a *one-time purchase* (i.e., not a recurring payment, unless coupled with the OYPR for the Plan, in which case the payment ceases at the end of the one year cycle along with the Plan itself). Examples of add-ons include ["**Additional Pages**"](#4-additional-pages) or [**Initial "Blog" or "Products" Page**](#5-blog-and-product-postings). An "additional subscription" is any subscription other than the Plan under the OYPR. Additional subscriptions constitute a *recurring payment* over an indefinite period of time (i.e., not confined to the scope of the Plan under the OYPR). Examples of additional subscriptions are [**"Osows Website Management"**](#2-osows-website-management), ["**Full Legal Compliance**"](#6-creation-of-terms-of-service-and-privacy-policy), ["**Accessibility Compliance**"](#9-accessibility-compliance) or [**"Blog/Product Posting"**](#5-blog-and-product-postings).
+These terms, developed below, cover our ["**Genyst Website Policy**"](#1-genyst-website-policy), ["**Genyst Website Management Policy**"](#2-genyst-website-management-policy), ["**Refunds and Cancellation Policy**"](#8-refunds-and-cancellation), as well as any additional purchases ("add-ons" or "additional subscriptions") that may be added onto the original "Plan" purchase and the terms which go along with each additional purchase. By "Plan" it is meant the original Genyst [**"Genyst Website"**](#1-genyst-website) Plan, which is the base of all other additional subscriptions or add-ons. In order to purchase additional subscriptions, like [**"Genyst Website Management"**](#2-genyst-website-management) or add-ons, one must have either paid for the Plan "in Full" (see section 1) or currently be on or finished with the "One Year Payment Route" (OYPR) regarding the Plan (see section 1). An "add-on" is an addition to the Plan and constitutes a *one-time purchase* (i.e., not a recurring payment, unless coupled with the OYPR for the Plan, in which case the payment ceases at the end of the one year cycle along with the Plan itself). Examples of add-ons include ["**Additional Pages**"](#4-additional-pages) or [**Initial "Blog" or "Products" Page**](#5-blog-and-product-postings). An "additional subscription" is any subscription other than the Plan under the OYPR. Additional subscriptions constitute a *recurring payment* over an indefinite period of time (i.e., not confined to the scope of the Plan under the OYPR). Examples of additional subscriptions are [**"Genyst Website Management"**](#2-genyst-website-management), ["**Full Legal Compliance**"](#6-creation-of-terms-of-service-and-privacy-policy), ["**Accessibility Compliance**"](#9-accessibility-compliance) or [**"Blog/Product Posting"**](#5-blog-and-product-postings).
 
 ---
 
 # Table of Contents
 
 [What This Document Covers](#what-this-document-covers)  
-[1. “Osows Website” Policy](#1-osows-website-policy)  
-[2. “Osows Website Management” Policy](#2-osows-website-management-policy)  
+[1. “Osows Website” Policy](#1-genyst-website-policy)  
+[2. “Osows Website Management” Policy](#2-genyst-website-management-policy)  
 [3. The Pages Included](#3-the-pages-included)  
 [4. Additional Pages](#4-additional-pages)  
 [5. Blog and Product Postings](#5-blog-and-product-postings)  
@@ -32,49 +32,49 @@ These terms, developed below, cover our ["**Osows Website Policy**"](#1-osows-we
 
 ---
 
-#### 1. "Osows Website" Policy
+#### 1. "Genyst Website" Policy
 *What this purchase includes:*
-- Anything listed under the "Osows Website" section in the ["**Plans Page**"](../plans/).
+- Anything listed under the "Genyst Website" section in the ["**Plans Page**"](../plans/).
 
 - See [section 3](#3-the-pages-included) for the pages included in this purchase.
 - One non-premium domain name. Any domain that can be found for *$35* or less on GoDaddy.com or websites similar.
-- Aid with account creation or modifications to third-party websites only as the accounts or modifications apply to Osows websites paid for by the client.
+- Aid with account creation or modifications to third-party websites only as the accounts or modifications apply to Genyst websites paid for by the client.
 - +Any add-ons or additional subscriptions purchased by the client.
 - +Website Hosting and Domain name coverage for one full calendar year.
 
 ---
 
 *What this purchase does not include:*
-- Anything not listed under the "Osows Website" section in the ["**Plans Page**"](../plans).
+- Anything not listed under the "Genyst Website" section in the ["**Plans Page**"](../plans).
 
-- Domain Name coverage beyond one calendar year from the date of the original purchase of the "Osows Website" Plan.
-- Web-Hosting coverage beyond one calendar year from the date of the original purchase of the "Osows Website" Plan.
-
----
-
-* *One Year Payment Route (OYPR):* The "Osows Website" Plan can be paid for through 12 installments of $150/month over one calendar year starting from the date of the initial purchase.
-
-* *Payment in Full:* The "Osows Website" Plan can be paid in full with a one time payment of $1500.
-
-* *Recurring Fees Post Payment:* Once the "Osows Website" Plan is completed and paid off (i.e. at the end of the OYPR or Paid in Full), the client is responsible for the yearly domain and web-hosting payments. *Osows will not be held responsible for the payment of domains or web-hosting after the first year of Plan purchase.* This may be offset by the purchase of the additional subscription [**"Osows Website Management"**](#2-osows-website-management).
+- Domain Name coverage beyond one calendar year from the date of the original purchase of the "Genyst Website" Plan.
+- Web-Hosting coverage beyond one calendar year from the date of the original purchase of the "Genyst Website" Plan.
 
 ---
 
-#### 2. "Osows Website Management" Policy
+* *One Year Payment Route (OYPR):* The "Genyst Website" Plan can be paid for through 12 installments of $150/month over one calendar year starting from the date of the initial purchase.
+
+* *Payment in Full:* The "Genyst Website" Plan can be paid in full with a one time payment of $1500.
+
+* *Recurring Fees Post Payment:* Once the "Genyst Website" Plan is completed and paid off (i.e. at the end of the OYPR or Paid in Full), the client is responsible for the yearly domain and web-hosting payments. *Genyst will not be held responsible for the payment of domains or web-hosting after the first year of Plan purchase.* This may be offset by the purchase of the additional subscription [**"Genyst Website Management"**](#2-genyst-website-management).
+
+---
+
+#### 2. "Genyst Website Management" Policy
 *What this purchase includes:*
-- Anything listed under the "Osows Website Management" section in the ["**Plans Page**"](../plans/).
+- Anything listed under the "Genyst Website Management" section in the ["**Plans Page**"](../plans/).
 
-- Domain Name coverage over the duration of the Osows Website Management subscription.
-- Web-Hosting coverage over the duration of the Osows Website Management subscription.
-- *Unlimited Troubleshooting and Error correcting regarding Osows Osows Websites and extensions to the website (i.e. extensions added by Osows and only those that pertain to Osows websites which have been purchased by the client). Examples of extensions could include: accessiBe, Stripe, or Google Analytics/Tag.
+- Domain Name coverage over the duration of the Genyst Website Management subscription.
+- Web-Hosting coverage over the duration of the Genyst Website Management subscription.
+- *Unlimited Troubleshooting and Error correcting regarding Genyst Genyst Websites and extensions to the website (i.e. extensions added by Genyst and only those that pertain to Genyst websites which have been purchased by the client). Examples of extensions could include: accessiBe, Stripe, or Google Analytics/Tag.
 
 ---
 
 *What this purchase does not include:*
-- Anything not listed under the "Osows Website Management" section in the ["**Plans Page**"](../plans/).
+- Anything not listed under the "Genyst Website Management" section in the ["**Plans Page**"](../plans/).
 
-- Troubleshooting and error correcting in websites or other technologies/tech services that are not from Osows.
-- Osows Website Management for other websites or services other than Osows Osows Websites purchased by the client.
+- Troubleshooting and error correcting in websites or other technologies/tech services that are not from Genyst.
+- Genyst Website Management for other websites or services other than Genyst Genyst Websites purchased by the client.
 
 ---
 
@@ -123,7 +123,7 @@ If you would like a blog on your website, we charge $50 for the initial Blog pag
 
 *What this purchase does not include:*
 
-- The writing of blog posts on your website. (Osows will only upload blogs which the client has written, or gotten written for them. Osows will not write any blog posts for the client)
+- The writing of blog posts on your website. (Genyst will only upload blogs which the client has written, or gotten written for them. Genyst will not write any blog posts for the client)
 
 ---
 
@@ -143,7 +143,7 @@ If not selected in point 5 on ["**The Pages Included**"](#3-the-pages-included),
 
 *What this purchase does not include:*
 
-- The creation, purchase, finding, etc. of products to sell on your website. (Osows will only upload products which the client has obtained or intends to sell themselves. Osows will not be held responsible in any way for anything beyond the posting, uploading, or pasting of products the client wishes to have posted on their website.)
+- The creation, purchase, finding, etc. of products to sell on your website. (Genyst will only upload products which the client has obtained or intends to sell themselves. Genyst will not be held responsible in any way for anything beyond the posting, uploading, or pasting of products the client wishes to have posted on their website.)
 
 ---
 
@@ -177,11 +177,11 @@ You will receive a 100% refund if you cancel your plan within three days of the 
 
 Beyond three days you might not receive any refund for the month in which the subscription was originally purchased. We encourage you to contact us anyway and hopefully we can work something out.
 
-If you decide to cancel your subscription before the next billing cycle, you will retain our services for the duration of the paid for billing cycle. For the following billing cycle, you will no longer be charged and the services previously purchased from Osows will cease.
+If you decide to cancel your subscription before the next billing cycle, you will retain our services for the duration of the paid for billing cycle. For the following billing cycle, you will no longer be charged and the services previously purchased from Genyst will cease.
   - Any negotiated refund will be based on the amount of days since your original purchase and the labor already spent.
   - In most cases, however, you will not receive any refund beyond the three day mark.
 
-**Osows Website Package:**
+**Genyst Website Package:**
 You will receive a 100% refund if you cancel your plan within three days of the original purchase.
   - To do so you must contact us saying you wish to cancel and also provide your order number.
 
@@ -189,16 +189,16 @@ Beyond three days you might not receive any refund. We encourage you to contact 
   - Any negotiated refund will be based on the amount of days since your original purchase and the labor already spent.
   - In most cases, however, you will not receive any refund beyond the three day mark.
 
-If you decide to cancel your subscription before the end of the annual billing cycle, you will receive our services until said billing cycle ends. For the following billing cycle, you will no longer be charged and the services previously purchased from Osows will cease. If you have questions regarding the status of the website purchased from us after your subscription ends, see our [Plan Policy](../planpolicy/) page for more details.
+If you decide to cancel your subscription before the end of the annual billing cycle, you will receive our services until said billing cycle ends. For the following billing cycle, you will no longer be charged and the services previously purchased from Genyst will cease. If you have questions regarding the status of the website purchased from us after your subscription ends, see our [Plan Policy](../planpolicy/) page for more details.
 
-If you have purchased the Osows Website on the monthly billing cycle, you are not allowed to cancel until the end of approximately one year of monthly billing cycles. This is because the cost of the website is the accumulation of one year's worth of monthly payments. If you decide to cancel, please contact us and we will tell you the date your subscription will end and when our services will cease (i.e. after one full year (12 months) of billing cycles have been completed).
+If you have purchased the Genyst Website on the monthly billing cycle, you are not allowed to cancel until the end of approximately one year of monthly billing cycles. This is because the cost of the website is the accumulation of one year's worth of monthly payments. If you decide to cancel, please contact us and we will tell you the date your subscription will end and when our services will cease (i.e. after one full year (12 months) of billing cycles have been completed).
 
 ---
 
 #### 9. Accessibility Compliance
-For $50/month, accessibility compliance can be added to your subscription. This is a recurring fee that extends beyond the end of date of the initial Subscription. You will be charged for as long as you desire it to exist on your Osows website.
+For $50/month, accessibility compliance can be added to your subscription. This is a recurring fee that extends beyond the end of date of the initial Subscription. You will be charged for as long as you desire it to exist on your Genyst website.
 
-Upon purchasing anything from Osows, and thereby agreeing to our Terms of Service, you also recognize that we have necessarily provided Accessibility Compliance (including but not limited to: ADA, WCAG, EEA compliance etc.) as an option, even should you not choose it.
+Upon purchasing anything from Genyst, and thereby agreeing to our Terms of Service, you also recognize that we have necessarily provided Accessibility Compliance (including but not limited to: ADA, WCAG, EEA compliance etc.) as an option, even should you not choose it.
 
 To make your website accessible, we have partnered with [**accessiBe.com**](https://accessibe.com/).
 
@@ -209,12 +209,12 @@ The credit for our Designs properly goes to:
 - GetHugoThemes.com
 - Themefisher.com
 
-We have opted to host these sites as previews ourselves for cohesion purposes on Osows.com. Our Web Developers are skilled in the conversion of these designs into new customized websites for our clients. We have all rights necessary to conduct said conversion for our clients and use these designs as we see fit.
+We have opted to host these sites as previews ourselves for cohesion purposes on Genyst.com. Our Web Developers are skilled in the conversion of these designs into new customized websites for our clients. We have all rights necessary to conduct said conversion for our clients and use these designs as we see fit.
 
 ---
 
 #### 11. Money Back Guarantee
-If your new Osows Website is not to your liking, you may receive a full refund if requested within the first three months of your initial purchase. 
+If your new Genyst Website is not to your liking, you may receive a full refund if requested within the first three months of your initial purchase. 
 
 This is to ensure your comfort and that we do the best job possible.
 

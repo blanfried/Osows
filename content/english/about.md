@@ -1,5 +1,5 @@
 ---
-title: "About Osows"
+title: "About Genyst"
 # watermark text
 watermark: "About"
 # page header background image
@@ -17,7 +17,7 @@ about:
   video_thumbnail : "images/about/about-4.svg"
   # removed link for the time being
   video_link : ""
-  subtitle : "How Osows Came To Be"
+  subtitle : "How Genyst Came To Be"
   title : "A Philosopher Turned Entrepreneur"
   content : "Odds are, if you found us, you probably found us through our founder, Baer Lanfried, somewhere on the internet. 
   <br><br>
@@ -27,7 +27,7 @@ about:
   <br><br>
   He recognized that larger businesses always have the upper hand in this regard due to their ability to spend immense capital toward a custom-branded professionally coded website.
   <br><br>
-  With this in mind, his goal was to create affordable high-end websites, tailored to specific brands, whilst making the process as simple and personable as possible. Thus, Osows.
+  With this in mind, his goal was to create affordable high-end websites, tailored to specific brands, whilst making the process as simple and personable as possible. Thus, Genyst.
   "
   button:
     enable : true
@@ -44,7 +44,7 @@ funfacts:
     count : "4500"
     
   # funfact item loop
-  - name : "Osows Price"
+  - name : "Genyst Price"
     dsign : "$"
     count : "100"
 
@@ -54,7 +54,7 @@ funfacts:
     count : "90"
 
   # funfact item loop
-  - name : "Osows Turnaround"
+  - name : "Genyst Turnaround"
     plus : " Days"
     count : "30"
 

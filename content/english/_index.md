@@ -29,7 +29,7 @@ about:
     # about item loop
     - image : "images/about/about-1.svg"
       subtitle : "What We Do"
-      title : "Osows Websites For All"
+      title : "Genyst Websites For All"
       content : "Through our simple and proven three-step process, we transmute visions into high-quality websites merging professional craftsmanship with creativity. Our mission is to create a more inclusive and obtainable digital world for everyone."
       button:
         enable : true
@@ -40,7 +40,7 @@ about:
     - image : "images/about/about-2.svg"
       subtitle : "Who We Are"
       title : "Rooted in Ethics and a Desire to Help"
-      content : "After completing his graduate course in Ethics, our founder, Baer Lanfried, wanted an easy and cost-effective way to help the individual and mom-and-pop succeed against big business. This led him to Osows..."
+      content : "After completing his graduate course in Ethics, our founder, Baer Lanfried, wanted an easy and cost-effective way to help the individual and mom-and-pop succeed against big business. This led him to Genyst..."
       button:
         enable : true
         label : "Read the Full Story"
@@ -95,7 +95,7 @@ promo_video:
   video_link : ""
   subtitle : "Cheeky Vid"
   title : "A Message from Our Founder (coming soon)"
-  content : "Learn about Osows in a more stimulating video format!
+  content : "Learn about Genyst in a more stimulating video format!
   
 
   Our founder, Baer, gives a little run-through of our mission, who we are, what we do, and how we do it."

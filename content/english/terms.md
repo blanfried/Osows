@@ -1,5 +1,5 @@
 ---
-title: "Osows Terms of Service"
+title: "Genyst Terms of Service"
 date: 2020-06-05T15:04:04+02:00
 draft: false
 #watermark: "Coinic"
@@ -19,17 +19,17 @@ description: "Last Updated: February 20, 2024"
 
 ## AGREEMENT TO OUR LEGAL TERMS
 
-We are **Oso Group Incorporated**, a Delaware corporation, doing business as **Osows** ("**Company**," “**we**,” “**us**,” “**our**”), a company registered in California, United States at 17436 North Mesa Drive, San Diego, CA 92061.
+We are **Oso Group Incorporated**, a Delaware corporation, doing business as **Genyst** ("**Company**," “**we**,” “**us**,” “**our**”), a company registered in California, United States at 17436 North Mesa Drive, San Diego, CA 92061.
 
-We operate the website [http://www.osows.com](http://www.osows.com) (the “**Site**”), as well as any other related products and services that refer or link to these legal terms (the “**Legal Terms**”) (collectively, the “**Services**”).
+We operate the website [http://www.genyst.com](http://www.genyst.com) (the “**Site**”), as well as any other related products and services that refer or link to these legal terms (the “**Legal Terms**”) (collectively, the “**Services**”).
 
 We aid in all website matters. We create websites, help with existing ones, boost SEO and performance to increase online traffic, and we offer personal web developer subscriptions. We have a strong focus on small businesses and WCAG, ADA, and other accessibility legislation compliance with purchasable packages created for these.
 
-You can contact us by phone at **(949) 439-8667**, email at [contact@osows.com](mailto:contact@osows.com), or by mail to 17436 North Mesa Drive, San Diego, CA 92061, United States.
+You can contact us by phone at **(949) 439-8667**, email at [contact@genyst.com](mailto:contact@genyst.com), or by mail to 17436 North Mesa Drive, San Diego, CA 92061, United States.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("**you**"), and Oso Group Incorporated, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. **IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.**
 
-We will provide you with prior notice of any scheduled changes to the Services you are using. The modified Legal Terms will become effective upon posting or notifying you by [contact@osows.com](mailto:contact@osows.com), as stated in the email message. By continuing to use the Services after the effective date of any changes, you agree to be bound by the modified terms.
+We will provide you with prior notice of any scheduled changes to the Services you are using. The modified Legal Terms will become effective upon posting or notifying you by [contact@genyst.com](mailto:contact@genyst.com), as stated in the email message. By continuing to use the Services after the effective date of any changes, you agree to be bound by the modified terms.
 
 The Services are intended for users who are at least 18 years old. Persons under the age of 18 are not permitted to use or register for the Services.
 
@@ -87,7 +87,7 @@ Your use of our Services subject to your compliance with these Legal Terms, incl
 
 Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
 
-If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: [contact@osows.com](mailto:contact@osows.com). If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
+If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: [contact@genyst.com](mailto:contact@genyst.com). If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
 
 We reserve all rights not expressly granted to you in and to the Services, Content, and Marks.
 
@@ -140,7 +140,7 @@ Upon agreement to these terms you also agree to our [Subscription Policy](../sub
 
 See our [FAQ](../faq/) or [Subscription Policy](../subscriptionpolicy/#8-refunds-and-cancellation) for refund and cancellation details.
 
-If you are unsatisfied with our Services, please email us at contact@osows.com or visit our [Contact](../contact/) page.
+If you are unsatisfied with our Services, please email us at contact@genyst.com or visit our [Contact](../contact/) page.
 
 ---
 
@@ -303,4 +303,4 @@ San Diego, CA 92061
 
 United States
 
-[contact@osows.com](mailto:contact@osows.com)
+[contact@genyst.com](mailto:contact@genyst.com)
