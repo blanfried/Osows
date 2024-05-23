@@ -23658,6 +23658,9 @@ footer > div:first-child {
     .calendly-badge-content:hover:after {
       left: 0 !important; }
 
+.BaerSocH2 {
+  color: #00e0d8; }
+
 .preloader {
   position: fixed;
   top: 0;
