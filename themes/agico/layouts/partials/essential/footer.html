@@ -29,8 +29,11 @@
             <li class="mb-3 text-light"><a href="../contact/" class="text-light">Message Us</a></li>
             <li class="mb-3 text-light">{{site.Params.contact_info.address | safeHTML }}</li>
             <li class="mb-3 text-light">{{site.Params.contact_info.mobile | safeHTML }}</li>
-            <li class="mb-3 text-light">{{site.Params.contact_info.email | safeHTML }}</li>
-          </ul>
+            <li class="mb-3 text-light">
+              <a href="mailto:{{site.Params.contact_info.email | safeHTML }}" class="text-light">
+                  {{site.Params.contact_info.email | safeHTML }}
+              </a>
+          </li>          </ul>
         </div>
       </div>
     </div>
