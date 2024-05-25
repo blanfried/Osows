@@ -59,7 +59,7 @@ link = "https://billing.osows.com/p/login/28odTm8gZgVm73G7ss"
 [contact_info]
 address = ""
 mobile = ""
-email = "contact@osows.com"
+email = "contact@genyst.com"
 
 # google_map
 [google_map]
@@ -70,7 +70,7 @@ embed_url = "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d193559.605131
 [subscription]
 enable = true
 # mailchimp subsciption
-mailchimp_form_action = "https://osows.us22.list-manage.com/subscribe/post?u=43cdbdc69d5811857f14866a7&amp;id=344db3ac72&amp;f_id=0066c2e1f0" # replace this url with yours
+mailchimp_form_action = "https://osows.us22.list-manage.com/subscribe/post?u=43cdbdc69d5811857f14866a7&amp;id=344db3ac72&amp;f_id=003ec8e1f0" # replace this url with yours
 mailchimp_form_name = "" # replace this code with yours
 
 # Crisp Chat
