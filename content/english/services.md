@@ -83,8 +83,9 @@ service:
 feature:
   enable : true
   subtitle : "Your Site's Full Potential"
-  title : "Genyst Extras"
-  # link : "genyst-extras"
+  title : "Genyst Add-Ons"
+  # link is for following because lines up better
+  link : "genyst-addons"
   subtitle2 : "Expand, comply, and excel with these additional features:"
   feature_item:
   - title : "Full Legal"
@@ -139,8 +140,6 @@ service2:
   enable : true
   subtitle : "Your Personal Programmer"
   title : "Genyst Website Management"
-  # link is for following because lines up better
-  link : "genyst-extras"
   # subtitle2 : "Experience seamless continuity with:"
   subtitle2 : "Comprehensive support that lifts the burden, ensuring your site thrives."
   service_item2:

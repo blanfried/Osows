@@ -43,7 +43,7 @@ pricing:
     unit : "month"
     description : ""
     name: "See Details"
-    link : "/services/#osows-extras"
+    link : "/services/#genyst-addons"
     services:
     - Full Legal
     - Blog Posting
@@ -62,7 +62,7 @@ pricing:
     unit : ""
     description : "Included With Genyst Website"
     name: "Learn More"
-    link : "/services/#osows-website-management"
+    link : "/services/#genyst-website-management"
     services:
     - SEO Monitoring
     - 3 Branding Changes/Month

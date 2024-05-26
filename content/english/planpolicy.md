@@ -18,8 +18,8 @@ These terms, developed below, cover our ["**Genyst Website Policy**"](#1-genyst-
 # Table of Contents
 
 [What This Document Covers](#what-this-document-covers)  
-[1. “Osows Website” Policy](#1-genyst-website-policy)  
-[2. “Osows Website Management” Policy](#2-genyst-website-management-policy)  
+[1. Genyst Website” Policy](#1-genyst-website-policy)  
+[2. Genyst Website Management” Policy](#2-genyst-website-management-policy)  
 [3. The Pages Included](#3-the-pages-included)  
 [4. Additional Pages](#4-additional-pages)  
 [5. Blog and Product Postings](#5-blog-and-product-postings)  
