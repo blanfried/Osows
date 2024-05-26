@@ -52,8 +52,8 @@ success_image = "images/paper-plane.svg"
 # Navigation button
 [navigation_button]
 enable = true
-label = "account"
-link = "https://billing.osows.com/p/login/28odTm8gZgVm73G7ss"
+label = "Account"
+link = "https://billing.genyst.com/p/login/28odTm8gZgVm73G7ss"
 
 # contact info
 [contact_info]
