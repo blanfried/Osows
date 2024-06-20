@@ -133,10 +133,10 @@ button = "I Accept"
 # icon = "fa-brands fa-x-twitter" # fontawesome icon pack : https://fontawesome.com/icons/x-twitter?f=brands&s=solid
 # link = "#"
 
-[[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.instagram.com/baerlanfried/"
+# [[social]]
+# title = "instagram"
+# icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "https://www.instagram.com/baerlanfried/"
 
 [[social]]
 title = "github"
@@ -151,7 +151,7 @@ link = "https://www.linkedin.com/in/baer-lanfried-488ab61aa/"
 [[social]]
 title = "medium"
 icon = "fab fa-medium" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://medium.com/@baerlanfried_99543"
+link = "https://baerlanfried.medium.com/"
 
 [[social]]
 title = "Youtube"
