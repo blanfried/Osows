@@ -314,7 +314,7 @@ This is to ensure your comfort and that we do the best job possible.
 
 If a refund is requested, your website will taken offline immediately and saved for 60 days.
 
-See our [FAQ](../faq/) or [Subscription Policy](../subscriptionpolicy/#8-refunds-and-cancellation) for refund and cancellation details.
+See our [Subscription Policy](../subscriptionpolicy/#8-refunds-and-cancellation) for refund and cancellation details.
 
 If you are unsatisfied with our Services, please email us at contact@genyst.com or visit our [Contact](../contact/) page.
 

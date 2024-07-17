@@ -30,12 +30,18 @@ hasChildren = true
   name = "About Us"
   URL = "about/"
   weight = 1
-
+  
   [[main]]
   parent = "More"
-  name = "Plan Policy"
-  URL = "planpolicy/"
+  name = "Terms of Service"
+  URL = "terms/"
   weight = 2
+
+  # [[main]]
+  # parent = "More"
+  # name = "Plan Policy"
+  # URL = "planpolicy/"
+  # weight = 2
 
   #  [[main]]
   #  parent = "Pages"
@@ -81,17 +87,17 @@ name = "Contact Us"
 URL = "contact/"
 weight = 4
 
-[[footer]]
-name = "Plan Policy"
-URL = "planpolicy/"
-weight = 5
+# [[footer]]
+# name = "Plan Policy"
+# URL = "planpolicy/"
+# weight = 5
 
 [[footer]]
 name = "Terms of Service"
 URL = "terms/"
-weight = 6
+weight = 5
 
 [[footer]]
 name = "Privacy Policy"
 URL = "privacy/"
-weight = 7
+weight = 6
